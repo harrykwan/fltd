@@ -88,9 +88,17 @@ var mydataset = {
 		title: "The Door To Loneliness",
 		descrip: "Dec 2018"
 	},{
-		link: "https://i.pinimg.com/originals/33/2f/3d/332f3de81302a2808e231eee8eb5fda4.jpg",
-		title: "",
-		descrip: "asdfasdfasdfasdf"
+		link: "https://i.pinimg.com/originals/ee/78/6d/ee786d8c84bd1039a1bbc2cbb53693c6.jpg",
+		title: "雖然你不曾過來 Fuck Off",
+		descrip: "Oct 2018"
+	},{
+		link: "https://i.pinimg.com/originals/31/03/f7/3103f78be20ec0b353c559e85d63711c.jpg",
+		title: "Chilling",
+		descrip: "Oct 2018"
+	},{
+		link: "https://i.pinimg.com/originals/37/0c/06/370c06165ecc3ae34045fc5a4537969f.jpg",
+		title: "面目 Ferocious",
+		descrip: "Oct 2018"
 	},{
 		link: "https://i.pinimg.com/originals/9f/11/40/9f11400bd9a698d425fe6d7dd6a59f42.jpg",
 		title: "Ratner",
