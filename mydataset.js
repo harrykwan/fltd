@@ -176,7 +176,7 @@ var mydataset = {
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/f8/65/0d/f8650d52b7370c6e97488bd5c2193e3f.jpg",
-		title: "那如果沒人跟著起舞我們怎麽革命 We Should Dance",
+		title: "那如果沒人跟著起舞我們怎麽革命 <br> We Should Dance",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/36/ea/77/36ea7795362a556b8e6d8f9330b0f951.jpg",
