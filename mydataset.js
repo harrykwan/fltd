@@ -9,11 +9,11 @@ var mydataset = {
 		descrip: "Sep 2019"
 	},{
 		link: "https://i.pinimg.com/originals/7e/6a/de/7e6ade908566a992c6e3ef2ba66c5f58.jpg",
-		title: "前 Forward",
+		title: "前 <br> Forward",
 		descrip: "Sep 2019"
 	},{
 		link: "https://i.pinimg.com/originals/74/ff/55/74ff556893a24a4d636f29e0ae48aa3c.jpg",
-		title: "美好生活 Life",
+		title: "美好生活 <br> Life",
 		descrip: "July 2019"
 	},{
 		link: "https://i.pinimg.com/originals/af/1f/0c/af1f0cb23e5279e2e21e579a445249ad.jpg",
@@ -21,11 +21,11 @@ var mydataset = {
 		descrip: "July 2019"
 	},{
 		link: "https://i.pinimg.com/originals/22/0b/16/220b167c793ad98b9d7e77b8531637b3.jpg",
-		title: "自由 Freedom",
+		title: "自由 <br> Freedom",
 		descrip: "June 2019"
 	},{
 		link: "https://i.pinimg.com/originals/a2/fa/21/a2fa21f03aa89ba862717739e345cc47.jpg",
-		title: "在滿洲里等你 Sitting Still",
+		title: "在滿洲里等你 <br> Sitting Still",
 		descrip: "June 2019"
 	},{
 		link: "https://i.pinimg.com/originals/c3/d8/f1/c3d8f16e390c64c21e4673979880e6a2.jpg",
@@ -89,7 +89,7 @@ var mydataset = {
 		descrip: "Dec 2018"
 	},{
 		link: "https://i.pinimg.com/originals/ee/78/6d/ee786d8c84bd1039a1bbc2cbb53693c6.jpg",
-		title: "雖然你不曾過來 Fuck Off",
+		title: "雖然你不曾過來 <br> Fuck Off",
 		descrip: "Oct 2018"
 	},{
 		link: "https://i.pinimg.com/originals/31/03/f7/3103f78be20ec0b353c559e85d63711c.jpg",
@@ -97,7 +97,7 @@ var mydataset = {
 		descrip: "Oct 2018"
 	},{
 		link: "https://i.pinimg.com/originals/37/0c/06/370c06165ecc3ae34045fc5a4537969f.jpg",
-		title: "面目 Ferocious",
+		title: "面目 <br> Ferocious",
 		descrip: "Oct 2018"
 	},{
 		link: "https://i.pinimg.com/originals/9f/11/40/9f11400bd9a698d425fe6d7dd6a59f42.jpg",
@@ -156,19 +156,19 @@ var mydataset = {
 		descrip: "Sep 2019"
 	},{
 		link: "https://i.pinimg.com/originals/d1/cc/49/d1cc49719cc47c6f07149ef8966272d6.jpg",
-		title: "凡經過悟明的都會歸正 Epiphany",
+		title: "凡經過悟明的都會歸正 <br> Epiphany",
 		descrip: "Sep 2019"
 	},{
 		link: "https://i.pinimg.com/originals/19/35/ce/1935ceb117c0d6c3a52248e8684a5622.jpg",
-		title: "憐憫 Mercy",
+		title: "憐憫 <br> Mercy",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/d3/84/19/d38419703d96422d61efe7b23b876d6b.jpg",
-		title: "那裡那天 Listen",
+		title: "那裡那天 <br> Listen",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/62/66/a5/6266a552b6026e61002326e57489046f.jpg",
-		title: "每一口都自閉 Self-Enclosed",
+		title: "每一口都自閉 <br> Self-Enclosed",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/99/56/0c/99560cf3369704b1f23e3e561246acdb.jpg",
@@ -200,15 +200,15 @@ var mydataset = {
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/58/a7/07/58a7078d237d1bd9486cfaf5623a2245.jpg",
-		title: "淺層 Shallow",
+		title: "淺層 <br> Shallow",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/ff/c6/b0/ffc6b03773a630734af91bf21763a1db.jpg",
-		title: "2001個秘密 2001secrets",
+		title: "2001個秘密 <br> secrets2001",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/33/69/f2/3369f2880ae916be2fe7d60f65af9d58.jpg",
-		title: "吞服了房間 Swallow The Room",
+		title: "吞服了房間 <br> Swallow The Room",
 		descrip: "Aug 2019"
 	},{
 		link: "https://i.pinimg.com/originals/a5/c9/31/a5c931e1a664747ba9eca92081b85301.jpg",
