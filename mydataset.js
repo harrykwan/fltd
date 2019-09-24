@@ -232,7 +232,7 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/da/0c/56/da0c56ebb455c71f180295ad4835cc86.jpg",
 		title: "錢 <br> Chin",
-		descrip: ""
+		descrip: "June 2018"
 	},{
 		link: "https://i.pinimg.com/originals/52/5a/59/525a5969f7df9e72ec6a18ee93ccf0e3.jpg",
 		title: "只有不是自己才安全 <br> You Are Safe Only When You Are Not Yourself",
