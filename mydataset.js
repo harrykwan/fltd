@@ -141,13 +141,41 @@ var mydataset = {
 	
 
 	paintingpage: [{
-		link: "https://i.pinimg.com/originals/7e/6a/de/7e6ade908566a992c6e3ef2ba66c5f58.jpg",
-		title: "title",
-		descrip: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
+		link: "https://i.pinimg.com/originals/dc/ca/17/dcca173e52620e341af02de2e448e429.jpg",
+		title: "Summer",
+		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/33/2f/3d/332f3de81302a2808e231eee8eb5fda4.jpg",
-		title: "",
-		descrip: ""
+		link: "https://i.pinimg.com/originals/92/2c/f4/922cf4162993bae05b3708138bf782f2.jpg",
+		title: "理想國 <br> Idealism",
+		descrip: "Aug 2019"
+	},{
+		link: "https://i.pinimg.com/originals/40/ef/43/40ef43744b55bfd82d0a2d7395e12b3d.jpg",
+		title: "Face",
+		descrip: "July 2019"
+	},{
+		link: "https://i.pinimg.com/originals/10/49/70/104970dacfa1e3270a1ac811f83ac6ad.jpg",
+		title: "Exhibition",
+		descrip: "June 2019"
+	},{
+		link: "https://i.pinimg.com/originals/7d/fa/eb/7dfaeb3cc7b98954ed8d37a141986af7.jpg",
+		title: "我們都一樣 <br> We Are All The Same",
+		descrip: "May 2019"
+	},{
+		link: "https://i.pinimg.com/originals/b2/fc/86/b2fc8654a47d3731c1c42eb26699429a.jpg",
+		title: "Someone's Room",
+		descrip: "May 2019"
+	},{
+		link: "https://i.pinimg.com/originals/a6/c4/12/a6c412141e1eb90ad775a4926290252d.jpg",
+		title: "告白 <br> Confession ",
+		descrip: "Apr 2019"
+	},{
+		link: "https://i.pinimg.com/originals/f7/2a/55/f72a557d9a23092183568eb174cd6f8b.jpg",
+		title: "都市男女 <br> City Boys & Girls",
+		descrip: "Apr 2019"
+	},{
+		link: "https://i.pinimg.com/originals/43/a8/7c/43a87c6bb598aa58bf72b80e73cdcc6a.jpg",
+		title: "Untitled",
+		descrip: "Mar 2019"
 	}],
 
 	watercolourpage: [{
