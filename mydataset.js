@@ -1,7 +1,7 @@
 var mydataset = {
 	digitalartpage: [{
 		link: "https://i.pinimg.com/originals/0a/f8/03/0af80317e5aff0efbf0e0d7bc3da7186.jpg",
-		title: "自我安慰 Self-Consolation",
+		title: "Cycle of Self-Consolation",
 		descrip: "Sep 2019"
 	},{
 		link: "https://i.pinimg.com/originals/2a/ca/5f/2aca5f4c7c8729542aa36f2772a4fb1d.jpg",
