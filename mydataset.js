@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/c3/84/be/c384bea6636b38fa89aae1b39776bb0d.jpg",
+		title: "。",
+		descrip: "Oct 2019"
+	},{
 		link: "https://i.pinimg.com/originals/0a/f8/03/0af80317e5aff0efbf0e0d7bc3da7186.jpg",
 		title: "Cycle of Self-Consolation",
 		descrip: "Sep 2019"
