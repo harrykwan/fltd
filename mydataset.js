@@ -1,7 +1,7 @@
 var mydataset = {
 	digitalartpage: [{
-		link: "",
-		title: "",
+		link: "https://i.pinimg.com/originals/c5/07/34/c507341d2b034c701d1d1905e3ba94a7.jpg",
+		title: "Untitled",
 		descrip: "Oct 2019"
 	},{
 		link: "https://i.pinimg.com/originals/c3/84/be/c384bea6636b38fa89aae1b39776bb0d.jpg",
