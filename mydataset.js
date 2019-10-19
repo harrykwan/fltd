@@ -1,5 +1,13 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/e1/7f/f3/e17ff37175efbd158055054072aeeb3d.jpg",
+		title: "才觸摸到我悵然若失的某種情緒 <br> October's Frustration",
+		descrip: "Oct 2019"
+	},{
+		link: "https://i.pinimg.com/originals/80/43/0f/80430f7fef3127878eb204ee575065a9.jpg",
+		title: "R.I.P.",
+		descrip: "Oct 2019"
+	},{
 		link: "https://i.pinimg.com/originals/c5/07/34/c507341d2b034c701d1d1905e3ba94a7.jpg",
 		title: "Untitled",
 		descrip: "Oct 2019"
