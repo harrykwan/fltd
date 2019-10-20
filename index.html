@@ -1,226 +1,270 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<style>
+* {
+box-sizing: border-box;
+}
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+	perspective: 1000;
+	transition: transform 0.6s;
+	transform-style: preserve-3d;
+}
 
-  <title>FLTD_ ART WORK</title>
+.column:hover{
 
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom styles for this template -->
-  <link href="css/heroic-features.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Cuprum&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Cuprum|Noto+Serif+TC&display=swap" rel="stylesheet">
-  <script type="text/javascript" src="mydataset.js"></script>
-  <style type="text/css">
-    body{
-      font-family: 'Cuprum','Noto Serif TC',  sans-serif;
-    }
+	/*transform: rotateY(180deg);*/
+	transition: transform 0s;
+}
 
 
-  </style>
+.column>img{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+
+.column>img:hover{
+	opacity: 0.3;
+	filter: blur(3px);
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.photowords{
+	font-size: 30px;
+	position: fixed; 
+	top: 45%;
+	left: 0;
+	/*left: 15%;*/
+	width: 100%;
+	text-align: center;
+	color: #6a6a75;
+	/*color: #b4b4cf;*/
+	/*text-shadow: 0 0 3px black;*/
+	z-index: -1;
+	color: black;
+	opacity: 0.7;
+}
+
+
+
+
+.starttitle{
+	 text-align: left; font-size: 70px;
+}
+
+body{
+	background-color: /*#CFCFDD;*//*#E7E7E7*/#fffaf0;
+	font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+.secbg{
+	background: #b4b4cf; background: #f7f0f5; width: 100%; height: 100%; position: absolute; z-index: -1; top: 30px; left: 30px; height: 1500px; opacity: 0.7;
+}
+
+.secbgborder{
+	background: none; width: 100%; height: 100%; position: absolute; z-index: -1;  height: 1500px;
+	border: 20px solid #6b6a51; opacity: .3; top: 60px; left: 60px; border-top-width: 200px;
+}
+
+.picarray{
+	width: 70%; margin-left: auto; margin-right: auto; color: #fffaf0; font-size: 25px;
+	max-width: 1000px;
+}
+
+.picarraybg{
+	background-color: #e4e4ed; padding: 20px;
+}
+
+.picarraybg{
+	background-color: #e4e4ed; padding: 20px;
+}
+
+.startpage{
+	margin-top: 80px; margin-bottom: 80px;  width: 100%; padding-top: 50px; padding-bottom: 50px;
+}
+
+.picarray2{
+	display: none;
+	position: absolute;
+	width: 200px;
+	left: -180px;
+	top: 200px;
+}
+
+.picarray2show{
+	left: 50px;
+	transition-duration: .3s;
+}
+
+.picarray2div{
+	margin-bottom: 5px;
+	padding: 4px;
+	padding-top: 10px;
+	font-size: 25px;
+	text-align: center;
+}
+
+.bg2_2{display: none;}
+
+
+@media screen and (max-width:800px){
+	.secbg {top: 30px; left: 20px; height: 800px;}
+	.photowords {font-size: 15px; top: 40%;}
+	.starttitle {font-size: 40px; text-align: right; width: 200px; position: absolute; right: 30; top: 50;}
+	.picarraybg {padding: 3px;display: none;}
+	.picarray2 {display: block;}
+	.startpage {padding-top: 20px; }
+	.picarray {}
+	.secbgborder {top: 40px; left: 30px; border-width: 5px; height: 800px; border-top-width: 130px;}
+	.bg2_2{display: block;}
+}
+
+
+</style>
 </head>
-
 <body>
 
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="#" onclick="changepage('homepage',this)">fltd_</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a onclick="changepage('digitalartpage',this)" class="nav-link" href="#">Digital artworks</a>
-          </li>
-          <li class="nav-item">
-            <a onclick="changepage('sketchpage',this)" class="nav-link" href="#">Sketches</a>
-          </li>
-          <li class="nav-item">
-            <a onclick="changepage('paintingpage',this)" class="nav-link" href="#">Paintings</a>
-          </li>
-          <li class="nav-item">
-            <a onclick="changepage('watercolourpage',this)" class="nav-link" href="#">Watercolours</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+<div style="">
+	<div id="secbg" class="secbg" style="">
+		<img src="pic/texture1.jpg" style="width: 100%; height: 100%; opacity: .3;">
+	</div>
 
-  <!-- home page -->
-  <div class="container" id="homepage">
-    <br><br><br>
-    <img style="width:100%;" src="https://i.pinimg.com/originals/58/a7/07/58a7078d237d1bd9486cfaf5623a2245.jpg">
-    <br><br><br><br>
-    <div style="width: 100%; text-align: center;">
-      <img style="width: 25%; margin-left: auto; margin-right: auto;" src="https://i.pinimg.com/originals/e8/6d/b1/e86db16e4fe1ef4ba35ae1e7a472b449.jpg"><br>
-Instagram: <a target="_blank" href="https://www.instagram.com/fltd_/">fltd_</a><br>
-Email: <a target="_blank" href="mailto: whatweneedisjustahug@gmail.com">whatweneedisjustahug@gmail.com</a>
-<br></div>
-  </div>
+	<img src="pic/flower.jpeg" style="width: 100%; top:0; left:0;  opacity: .5; position: fixed; z-index: -3;">
+	<img class="bg2_2" src="pic/flower.jpeg" style="width: 100%; top:500; left:0;  opacity: .5; position: fixed; z-index: -4;">
 
+	<div id="secbg" class="secbgborder" style="">
+		
+	</div>
 
-  <!-- Page Content -->
-  <div class="container" id="digitalartpage" hidden>
-
-    <!-- Jumbotron Header -->
-    <header class="" style="margin: 50px; margin-left: 0;">
-      <h1 class="display-3">Digital artworks</h1>
-      <!-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p> -->
-      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
-    </header>
-
-    <!-- Page Features -->
-    <div class="row text-center" >
-
-     
-
-   
-
-   
-
-    </div>
-    <!-- /.row -->
-
-  </div>
-
-
-   <!-- Page Content -->
-  <div class="container" id="sketchpage" hidden>
-
-    <!-- Jumbotron Header -->
-    <header class="" style="margin: 50px; margin-left: 0;">
-      <h1 class="display-3">Sketches</h1>
-      <!-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p> -->
-      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
-    </header>
-
-    <!-- Page Features -->
-    <div class="row text-center" >
-
-     
-
-   
-
-   
-
-    </div>
-    <!-- /.row -->
-
-  </div>
-
-   <!-- Page Content -->
-  <div class="container" id="paintingpage" hidden>
-
-    <!-- Jumbotron Header -->
-    <header class="" style="margin: 50px; margin-left: 0;">
-      <h1 class="display-3">Paintings</h1>
-      <!-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p> -->
-      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
-    </header>
-
-    <!-- Page Features -->
-    <div class="row text-center" >
-
-     
-
-   
-
-   
-
-    </div>
-    <!-- /.row -->
-
-  </div>
-
-   <!-- Page Content -->
-  <div class="container" id="watercolourpage" hidden>
-
-    <!-- Jumbotron Header -->
-    <header class="" style="margin: 50px; margin-left: 0;">
-      <h1 class="display-3">Watercolours</h1>
-      <!-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p> -->
-      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
-    </header>
-
-    <!-- Page Features -->
-    <div class="row text-center" >
-
-     
-
-   
-
-   
-
-    </div>
-    <!-- /.row -->
-
-  </div>
+	<!-- background: #E7E7E7; -->
 
 
 
+	<div id="startpage" class="startpage" style="">
+		
+	<div id="picarray" style="" class="picarray">
+		<h1 class="starttitle">EVIAN LAI</h1>
+		<i onclick="showmenu()" class="material-icons" style="font-size: 40px;">menu</i>
+		<div class="picarray2" id="picarray2">
+			<div style="background: #ddd3e0" class="picarray2div">Introduction</div>
+			<div style="background: #d1b6e4" class="picarray2div">Inspiration</div>
+			<div style="background: #e4d67c" class="picarray2div">Natural Dye</div>
+			<div style="background: #bfdf8e" class="picarray2div">Beading</div>
+			<div style="background: #d1b6e4" class="picarray2div">Blind Stitch</div>
+			<div style="background: #ddd3e0" class="picarray2div">CAD</div>
+			<div style="background: #e4d67c" class="picarray2div">Weaving</div>
+			<div style="background: #bfdf8e" class="picarray2div">Collaboration</div>
+			<div style="background: #d1b6e4" class="picarray2div">Contact</div>
 
-  <!-- /.container -->
+		</div>
 
-  <!-- Footer -->
-  <footer class="py-5 bg-dark" style="margin-top: 100px;">
-    <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; fltd_ 2019</p>
-    </div>
-    <!-- /.container -->
-  </footer>
+		<div class="picarraybg" style="">
 
-  <div hidden style="position: fixed; top: 10%; left: 0; right: 0; height: 100%; width: 100%; text-align: center; background: none;" id="photoshowpopup">
-    <span onclick="this.parentNode.hidden = true" style="position: fixed; top: 7%;right: 15%; font-size: 30px; color: #BBB; "> &#x2A02;</span>
-    <img style="margin-left: auto; margin-right: auto; max-height: 80%; max-width: 60%;" src="" alt="">
-    <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #222; z-index: -999; opacity: 0.9;"></div>
-  </div>
+			<div class="row" >
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script type="text/javascript">
-    function startpage(){
-      for (j in mydataset){
-        for (var k=0; k<mydataset[j].length; k++){
-          document.getElementById(j).getElementsByClassName("row text-center")[0].innerHTML+=gencard(mydataset[j][k].link,mydataset[j][k].title, mydataset[j][k].descrip);
-        }
-      }
-      document.getElementsByClassName('active')[0].classList.remove('active');
-    }
-    startpage();
+			  <div class="column">
+			  	<div style="" class="photowords">Introduction</div>
+			    <img src="pic/1.jpeg" style="width:100%"> 
+			  </div>
+			  
+			  <div class="column">
+			  	<div style="" class="photowords">Inspiration</div>
+			    <img src="pic/2.jpeg"  style="width:100%">
+			  </div>
+			
+			  <div class="column">
+			  	<div style="" class="photowords">Natural Dye</div>
+			    <img src="pic/3.jpeg"  style="width:100%">
+			  </div>
+			</div>
+			<div class="row">
+			  <div class="column">
+			  	<div style="" class="photowords">Beading</div>
+			    <img src="pic/4.jpeg" style="width:100%">
+			  </div>
+			  <div class="column">
+			  	<div style="" class="photowords">Blind Stitch</div>
+			    <img src="pic/5.jpeg" style="width:100%">
+			  </div>
+			  <div class="column">
+			  	<div style="" class="photowords">CAD</div>
+			    <img src="pic/6.jpeg" style="width:100%">
+			  </div>
+			</div>
+			<div class="row">
+			  <div class="column">
+			  	<div style="" class="photowords">Weaving</div>
+			    <img src="pic/7.jpeg" style="width:100%">
+			  </div>
+			  <div class="column">
+			  	<div style="" class="photowords">Collaboration</div>
+			    <img src="pic/8.jpeg"  style="width:100%">
+			  </div>
+			  <div class="column">
+			  	<div style="" class="photowords">Contact</div>
+			    <img src="pic/9.jpeg" style="width:100%">
+			  </div>
+			</div>
+		</div>
+	</div>
 
-    function photoshow(x){
-      document.getElementById("photoshowpopup").hidden = false;
-      document.getElementById("photoshowpopup").getElementsByTagName("img")[0].src = x.src;
-    }
 
-    function gencard(mylink, mytitle, mydescrip){
-      return '   <div class="col-lg-3 col-md-6 mb-4">        <div class="card h-100">          <img onclick="photoshow(this)" class="card-img-top" src="'+mylink+'" alt="">          <div class="card-body">            <h4 class="card-title">'+mytitle+'</h4>            <p class="card-text">'+mydescrip+'</p>          </div>       </div>      </div>'
-    }
 
-    function changepage(x,y){
-      var allpage = ['homepage','digitalartpage','sketchpage','paintingpage','watercolourpage'];
-      for (var j=0; j<allpage.length; j++){
-        document.getElementById(allpage[j]).hidden = true;
-      }
-      if (document.getElementsByClassName('active')[0]) document.getElementsByClassName('active')[0].classList.remove('active');
-      y.classList.add('active');
-      document.getElementById(x).hidden = false;
-      document.getElementsByClassName('navbar-toggler')[0].click();
+	</div>
+</div>
 
-    }
+<script type="text/javascript">
+	function startfunc() {
+		var allbox = document.getElementsByClassName('column');
+		for (var j=0; j<allbox.length; j++){
+			allbox[j].getElementsByClassName('photowords')[0].hidden = true;
+			allbox[j].onmouseover = function(){
+				this.getElementsByClassName('photowords')[0].hidden = false;
+			}
+			allbox[j].onmouseout = function(){
+				this.getElementsByClassName('photowords')[0].hidden = true;
+			}
+			allbox[j].onclick = function(){
+				nextpage(this.getElementsByClassName('photowords')[0].innerHTML);
+			}
+		}
 
-  </script>
+		var allbox2 = document.getElementsByClassName('picarray2div');
+		for (var j=0; j<allbox2.length; j++){
+			allbox2[j].onclick = function(){
+				nextpage(this.innerHTML);
+			}
+		}
+	}
+	startfunc();
+
+	function nextpage(x){
+		console.log(x);
+	}
+
+	function showmenu() {
+		if (document.getElementById("picarray2").classList.contains('picarray2show'))
+			document.getElementById("picarray2").classList.remove('picarray2show')
+		else
+			document.getElementById("picarray2").classList.add('picarray2show')
+		
+	}
+
+</script>
 
 </body>
-
 </html>
