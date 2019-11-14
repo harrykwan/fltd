@@ -293,6 +293,10 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/74/be/1e/74be1e2b1e72ab6c5c7ebe2784d5734b.jpg",
+		title: "竟踩著哀傷一個個犧牲 <br> nite",
+		descrip: "Nov 2019"
+	},{
 		link: "https://i.pinimg.com/originals/fb/2c/0e/fb2c0ec44fa31f7472596eaf0c160254.jpg",
 		title: "Moment",
 		descrip: "Nov 2019"
