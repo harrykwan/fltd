@@ -293,6 +293,10 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/87/1b/72/871b727cc2d54e20536db1348c3954ac.jpg",
+		title: "活著 <br> To Live",
+		descrip: "Dec 2019"
+	},{
 		link: "https://i.pinimg.com/originals/a6/11/4a/a6114a6141a328dcbbf06ad8c47bfae2.jpg",
 		title: "無從",
 		descrip: "Nov 2019"
