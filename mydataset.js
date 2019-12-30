@@ -260,7 +260,7 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/58/13/ba/5813ba203d986a0a14108f5b1c76de06.jpg",
 		title: "A Hug",
-		descrip: "May 2019"
+		descrip: "May 2019 <br> MAY'S SPECIAL"
 	},{
 		link: "https://i.pinimg.com/originals/0b/69/8e/0b698e8233987dd5503d9186cc1702b0.jpg",
 		title: "辛苦笑著快樂痛 <br> Suffering",
