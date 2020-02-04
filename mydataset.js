@@ -293,6 +293,10 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/47/e7/f4/47e7f4d8bbfe4c8460035fc903ad10aa.jpg",
+		title: "What You Know About Life",
+		descrip: "Jan 2020"
+	},{
 		link: "https://i.pinimg.com/originals/87/1b/72/871b727cc2d54e20536db1348c3954ac.jpg",
 		title: "春生 <br> To Live",
 		descrip: "Dec 2019"
@@ -347,6 +351,10 @@ var mydataset = {
 	}],
 
 	watercolourpage: [{
+		link: "https://i.pinimg.com/originals/1e/a4/37/1ea4377f8fbd653d677d5f88a81fb6ab.jpg",
+		title: "Wandering",
+		descrip: "Jan 2020"
+	},{
 		link: "https://i.pinimg.com/originals/1d/f1/5b/1df15b69e2553b90b11de172d8a68ee7.jpg",
 		title: "There's Nth Else For Me To Do",
 		descrip: "Sep 2019"
