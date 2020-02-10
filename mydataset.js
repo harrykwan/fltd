@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/22/2f/b4/222fb44a03fc70d32cbca913b7cd6486.jpg",
+		title: "Ashes",
+		descrip: "Activation of Perspective Vol.5 <br> Photos and title provided by egggrasschicken <br> Feb 2020"
+	},{
 		link: "https://i.pinimg.com/originals/26/86/26/2686269077410ec1d188c8ceb80b1a85.jpg",
 		title: "一環一約(城界1903)",
 		descrip: "Activation of Perspective Vol.4 <br> Photos and title provided by Manchi <br> Feb 2020"
