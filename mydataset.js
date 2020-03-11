@@ -1,5 +1,13 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
+		title: "沒什麽特別的",
+		descrip: "Activation of Perspective Vol.7 <br> Photos and title provided by 山姆 <br> Feb 2020"
+	},{
+		link: "https://i.pinimg.com/originals/8c/db/f1/8cdbf13608aa3c20256a41afa119b179.jpg",
+		title: "遠方有光",
+		descrip: "Activation of Perspective Vol.6 <br> Photos and title provided by 輝 <br> Feb 2020"
+	},{
 		link: "https://i.pinimg.com/originals/22/2f/b4/222fb44a03fc70d32cbca913b7cd6486.jpg",
 		title: "Ashes",
 		descrip: "Activation of Perspective Vol.5 <br> Photos and title provided by egggrasschicken <br> Feb 2020"
@@ -313,6 +321,14 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/91/9d/17/919d176c5c093f0260d8ba31098c2291.jpg",
+		title: "世界永遠美麗只要你不在意有人正在死去",
+		descrip: "Mar 2020"
+	},{
+		link: "https://i.pinimg.com/originals/fc/ff/0e/fcff0e668c34ef821fe7ffbf27d294af.jpg",
+		title: "What Really Matters",
+		descrip: "Feb 2020"
+	},{
 		link: "https://i.pinimg.com/originals/47/e7/f4/47e7f4d8bbfe4c8460035fc903ad10aa.jpg",
 		title: "What You Know About Life",
 		descrip: "Jan 2020"
@@ -362,7 +378,7 @@ var mydataset = {
 		descrip: "Apr 2019"
 	},{
 		link: "https://i.pinimg.com/originals/f7/2a/55/f72a557d9a23092183568eb174cd6f8b.jpg",
-		title: "都市男女 <br> City Boys & Girls",
+		title: "都市男女 <br> City Boys & Girls <br> SOLD",
 		descrip: "Apr 2019"
 	},{
 		link: "https://i.pinimg.com/originals/43/a8/7c/43a87c6bb598aa58bf72b80e73cdcc6a.jpg",
