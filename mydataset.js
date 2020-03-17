@@ -321,11 +321,15 @@ var mydataset = {
 	
 
 	paintingpage: [{
-		link: "https://i.pinimg.com/originals/91/9d/17/919d176c5c093f0260d8ba31098c2291.jpg",
+		link: "https://i.pinimg.com/originals/74/4c/1f/744c1fbb4512567a9e0a51a4b4add9eb.jpg",
+		title: "已是一無所知",
+		descrip: "Mar 2020"
+	},{
+		link: "https://i.pinimg.com/originals/03/61/04/036104b538ae7530fe3cab6d28a82439.jpg",
 		title: "世界永遠美麗只要你不在意有人正在死去",
 		descrip: "Mar 2020"
 	},{
-		link: "https://i.pinimg.com/originals/fc/ff/0e/fcff0e668c34ef821fe7ffbf27d294af.jpg",
+		link: "https://i.pinimg.com/originals/31/5b/84/315b841b1da6e58fe5d4275ff890f8e9.jpg",
 		title: "What Really Matters",
 		descrip: "Feb 2020"
 	},{
