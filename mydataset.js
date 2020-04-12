@@ -321,11 +321,19 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/89/4e/1f/894e1f957422a0186ab0bdf7b992eda2.jpg",
+		title: "A Dog In Dreams",
+		descrip: "Apr 2020"
+	},{
+		link: "https://i.pinimg.com/originals/ca/47/ba/ca47ba21bdc557a488b6b28cb44e5382.jpg",
+		title: "Urban Rainforest",
+		descrip: "Apr 2020"
+	},{
 		link: "https://i.pinimg.com/originals/74/4c/1f/744c1fbb4512567a9e0a51a4b4add9eb.jpg",
 		title: "已是一無所知",
 		descrip: "Mar 2020"
 	},{
-		link: "https://i.pinimg.com/originals/03/61/04/036104b538ae7530fe3cab6d28a82439.jpg",
+		link: "https://i.pinimg.com/originals/22/89/6a/22896aa8c354880736a765a998ad7979.jpg",
 		title: "世界永遠美麗只要你不在意有人正在死去",
 		descrip: "Mar 2020"
 	},{
