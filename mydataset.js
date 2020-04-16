@@ -321,6 +321,10 @@ var mydataset = {
 	
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/71/de/0c/71de0c480177745cba724dbb2cfe3702.jpg",
+		title: "相信/懷疑/錯過",
+		descrip: "Apr 2020"
+	},{
 		link: "https://i.pinimg.com/originals/89/4e/1f/894e1f957422a0186ab0bdf7b992eda2.jpg",
 		title: "A Dog In Dreams",
 		descrip: "Apr 2020"
