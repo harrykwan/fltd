@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/42/9d/b6/429db6a9aa1b9a2606f9d0d8a9f264b7.jpg",
+		title: "The Pursuit of...",
+		descrip: "Apr 2020"
+	},{
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
 		title: "沒什麽特別的",
 		descrip: "Activation of Perspective Vol.7 <br> Photos and title provided by 山姆 <br> Feb 2020"
