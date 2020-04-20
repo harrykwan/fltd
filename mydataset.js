@@ -178,6 +178,14 @@ var mydataset = {
 	}],
 
 	sketchpage: [{
+		link: "https://i.pinimg.com/originals/85/1b/d7/851bd7b1a5d18bfe504fb5b6bbc040de.jpg",
+		title: "Lover's Tears",
+		descrip: "Jan 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/e7/39/eb/e739eba6115fbdd4dbc85e7561aa83b3.jpg",
+		title: "Towel",
+		descrip: "Oct 2019"
+	}, {
 		link: "https://i.pinimg.com/originals/2a/f5/ea/2af5ea67164d1b5313b5ad1a3705c385.jpg",
 		title: "知道自己不知道 <br> I Know I Don't Know",
 		descrip: "Sep 2019"
@@ -202,7 +210,7 @@ var mydataset = {
 		title: "All We Need",
 		descrip: "June 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/cd/51/34/cd5134ea11d8a14925ff6311283f92a0.jpg",
+		link: "https://i.pinimg.com/originals/e3/b8/52/e3b852400be61cefa083909fcd37d1a9.jpg",
 		title: "Doodle",
 		descrip: "May 2019"
 	}, {
@@ -260,6 +268,10 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/6b/c6/73/6bc673fc455840dacd37ca9c04560e93.jpg",
 		title: "OK",
+		descrip: "Aug 2018"
+	}, {
+		link: "https://i.pinimg.com/originals/3d/a5/53/3da55397a0bd89533aa232b5a5a72af2.jpg",
+		title: "Room",
 		descrip: "Aug 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/ae/72/c7/ae72c73f9fe6ebe8ac036f01005dbf22.jpg",
@@ -415,11 +427,11 @@ var mydataset = {
 		title: "There's Nth Else For Me To Do",
 		descrip: "Sep 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/d1/cc/49/d1cc49719cc47c6f07149ef8966272d6.jpg",
+		link: "https://i.pinimg.com/originals/45/15/5a/45155a37b88c820be71b0d72ebc21c32.jpg",
 		title: "凡經過悟明的都會歸正 <br> Epiphany",
 		descrip: "Sep 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/19/35/ce/1935ceb117c0d6c3a52248e8684a5622.jpg",
+		link: "https://i.pinimg.com/originals/5b/8e/62/5b8e62dbf2a0958e3461eed4b5b4bc35.jpg",
 		title: "憐憫 <br> Mercy",
 		descrip: "Aug 2019"
 	}, {
@@ -439,7 +451,7 @@ var mydataset = {
 		title: "那如果沒人跟著起舞我們怎麽革命 <br> We Should Dance",
 		descrip: "Aug 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/36/ea/77/36ea7795362a556b8e6d8f9330b0f951.jpg",
+		link: "https://i.pinimg.com/originals/2d/66/53/2d66537f0c29c71dccba4536e86e215d.jpg",
 		title: "Kids",
 		descrip: "Aug 2019"
 	}, {
@@ -471,6 +483,14 @@ var mydataset = {
 		title: "吞服了房間 <br> Swallow The Room",
 		descrip: "Aug 2019"
 	}, {
+		link: "https://i.pinimg.com/originals/ff/fd/33/fffd3336ff2704010c83cd32d5b546b7.jpg",
+		title: "Aaah",
+		descrip: "Aug 2019"
+	}, {
+		link: "https://i.pinimg.com/originals/e3/e0/b9/e3e0b94fd9a1c7e076abdf49a9f729d1.jpg",
+		title: "Guidance",
+		descrip: "Aug 2019"
+	}, {
 		link: "https://i.pinimg.com/originals/ad/e0/b2/ade0b216269a2acc3e745a5550539538.jpg",
 		title: "Relationships",
 		descrip: "Aug 2017"
@@ -486,5 +506,5 @@ var mydataset = {
 		descrip: "Sep 2019"
 	}],
 
-	coverpage: "https://i.pinimg.com/originals/92/2b/ef/922bef3a6f5c77f227b90241b134c684.jpg"
+	coverpage: "https://i.pinimg.com/originals/e1/69/c1/e169c1aca60762b798be0185f1c26dc1.jpg"
 }
