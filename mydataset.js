@@ -497,13 +497,53 @@ var mydataset = {
 	}],
 
 	poempage: [{
-		link: "https://i.pinimg.com/originals/1e/a4/37/1ea4377f8fbd653d677d5f88a81fb6ab.jpg",
-		title: "Wandering",
-		descrip: "Jan 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/1d/f1/5b/1df15b69e2553b90b11de172d8a68ee7.jpg",
-		title: "There's Nth Else For Me To Do",
-		descrip: "Sep 2019"
+		link: "https://i.pinimg.com/originals/f4/b5/5a/f4b55a31f9599ae6d854f39523c8355e.jpg",
+		title: "謊言",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/93/71/00/9371003da8b6bbfac2f0c61a9a2a8d7d.jpg",
+		title: "禮物",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/81/da/c4/81dac4c71f842327eaa1b8ddcd185048.jpg",
+		title: "午後",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/4d/41/05/4d410569010f8afd1fbb61c1528937a6.jpg",
+		title: "失眠",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/13/89/1b/13891b5f6c692aa6ca25e22e66567e04.jpg",
+		title: "墜落",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/da/bf/01/dabf017d192f1d36853e66b49cebe7c4.jpg",
+		title: "黑白",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/ca/db/55/cadb551f6f262424f93d684479dd3efb.jpg",
+		title: "滂沱",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/9b/00/6a/9b006a03093b95fe0529f12e2153c341.jpg",
+		title: "點火",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/bc/62/96/bc6296e727a26d42b152e4858165e095.jpg",
+		title: "起舞",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/6f/60/c5/6f60c55e791d2158a135f6d200996c1c.jpg",
+		title: "失明",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/a3/c3/a7/a3c3a708fccbcb0247ed162f81195f6d.jpg",
+		title: "盼望",
+		descrip: ""
+	},{
+		link: "https://i.pinimg.com/originals/a6/00/2a/a6002a6c384ea2b7f692a8b18c64ced5.jpg",
+		title: "高飛",
+		descrip: ""
 	}],
 
 	coverpage: "https://i.pinimg.com/originals/e1/69/c1/e169c1aca60762b798be0185f1c26dc1.jpg"
