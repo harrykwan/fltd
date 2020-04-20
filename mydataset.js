@@ -194,11 +194,11 @@ var mydataset = {
 		title: "手套與手 <br> Gloves And Hands",
 		descrip: "June 2019"
 	},{
-		link: "https://i.pinimg.com/originals/47/36/d6/4736d62bbbcefe1f4cf21ad4348cdf01.jpg",
+		link: "https://i.pinimg.com/originals/ef/a5/7b/efa57be17a7e4f61286b186205e2d7d6.jpg",
 		title: "歲月靜好 <br> Water",
 		descrip: "June 2019"
 	},{
-		link: "https://i.pinimg.com/originals/cf/60/99/cf60996b4e3d61a1e732e4082362cc7d.jpg",
+		link: "https://i.pinimg.com/originals/1a/a9/56/1aa9566538e246bddb2d2f5b217dae4d.jpg",
 		title: "All We Need",
 		descrip: "June 2019"
 	},{
@@ -385,7 +385,7 @@ var mydataset = {
 		title: "Exhibition",
 		descrip: "June 2019"
 	},{
-		link: "https://i.pinimg.com/originals/7d/fa/eb/7dfaeb3cc7b98954ed8d37a141986af7.jpg",
+		link: "https://i.pinimg.com/originals/97/fb/85/97fb8531be465ecf1169ba583ec9a9da.jpg",
 		title: "我們都一樣 <br> We Are All The Same",
 		descrip: "May 2019"
 	},{
@@ -401,7 +401,7 @@ var mydataset = {
 		title: "都市男女 <br> City Boys & Girls <br> SOLD",
 		descrip: "Apr 2019"
 	},{
-		link: "https://i.pinimg.com/originals/43/a8/7c/43a87c6bb598aa58bf72b80e73cdcc6a.jpg",
+		link: "https://i.pinimg.com/originals/f2/2c/0f/f22c0f4a1985881dc4a182e96a6b1b40.jpg",
 		title: "Untitled",
 		descrip: "Mar 2019"
 	}],
@@ -423,19 +423,19 @@ var mydataset = {
 		title: "憐憫 <br> Mercy",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/d3/84/19/d38419703d96422d61efe7b23b876d6b.jpg",
+		link: "https://i.pinimg.com/originals/0b/58/c2/0b58c2eebed10ffb7271e533fb99dba7.jpg",
 		title: "那裡那天 <br> Listen",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/62/66/a5/6266a552b6026e61002326e57489046f.jpg",
+		link: "https://i.pinimg.com/originals/59/09/71/59097165c6aae01134c20349f1e5ef8f.jpg",
 		title: "每一口都自閉 <br> Self-Enclosed",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/99/56/0c/99560cf3369704b1f23e3e561246acdb.jpg",
+		link: "https://i.pinimg.com/originals/82/e0/0b/82e00bd076a3f28b34825cfcdefde149.jpg",
 		title: "BYE-CHEW",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/f8/65/0d/f8650d52b7370c6e97488bd5c2193e3f.jpg",
+		link: "https://i.pinimg.com/originals/ac/0f/81/ac0f818ea3b8a23d2fb9fbff0a7c2abe.jpg",
 		title: "那如果沒人跟著起舞我們怎麽革命 <br> We Should Dance",
 		descrip: "Aug 2019"
 	},{
@@ -443,31 +443,31 @@ var mydataset = {
 		title: "Kids",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/24/4e/95/244e95cce714e18dd687feddbfc395b1.jpg",
+		link: "https://i.pinimg.com/originals/2d/05/36/2d0536da5ee3afadfa87221edd79870e.jpg",
 		title: "Reasons",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/82/e8/ba/82e8ba12d1537a4bda2c77baad788cda.jpg",
+		link: "https://i.pinimg.com/originals/3d/24/fa/3d24fada8a8e27faee66b30198c3da09.jpg",
 		title: "An Eye For",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/99/cf/a9/99cfa91fea8e4fdef35039ae705dad8f.jpg",
+		link: "https://i.pinimg.com/originals/5a/e9/8f/5ae98f41ac3bbad859295f532a6bc44d.jpg",
 		title: "Show Me How",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/31/73/fa/3173fa3ab8ebaed7738f448ce286c2d7.jpg",
+		link: "https://i.pinimg.com/originals/b3/33/88/b33388e58ad4ea7f7b0ac0e6fb0563bf.jpg",
 		title: "Year4",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/58/a7/07/58a7078d237d1bd9486cfaf5623a2245.jpg",
+		link: "https://i.pinimg.com/originals/10/65/b6/1065b6a2cb49ab29dd19d2d592e9b2c0.jpg",
 		title: "淺層 <br> Shallow",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/ff/c6/b0/ffc6b03773a630734af91bf21763a1db.jpg",
+		link: "https://i.pinimg.com/originals/d2/97/dc/d297dc351bc0af1c844adc84f1290739.jpg",
 		title: "2001個秘密 <br> Secrets2001",
 		descrip: "Aug 2019"
 	},{
-		link: "https://i.pinimg.com/originals/33/69/f2/3369f2880ae916be2fe7d60f65af9d58.jpg",
+		link: "https://i.pinimg.com/originals/e6/91/2d/e6912de416184716e4924d536b7a69f3.jpg",
 		title: "吞服了房間 <br> Swallow The Room",
 		descrip: "Aug 2019"
 	},{
