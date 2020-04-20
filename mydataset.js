@@ -546,5 +546,5 @@ var mydataset = {
 		descrip: ""
 	}],
 
-	coverpage: "https://i.pinimg.com/originals/e1/69/c1/e169c1aca60762b798be0185f1c26dc1.jpg"
+	coverpage: "https://i.pinimg.com/originals/b2/fc/86/b2fc8654a47d3731c1c42eb26699429a.jpg"
 }
