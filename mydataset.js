@@ -423,7 +423,7 @@ var mydataset = {
 		title: "Wandering",
 		descrip: "Jan 2020"
 	}, {
-		link: "https://i.pinimg.com/originals/1d/f1/5b/1df15b69e2553b90b11de172d8a68ee7.jpg",
+		link: "https://i.pinimg.com/originals/67/f3/63/67f3637dff97de4b2d0e9118316f95cb.jpg",
 		title: "There's Nth Else For Me To Do",
 		descrip: "Sep 2019"
 	}, {
