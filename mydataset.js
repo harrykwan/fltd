@@ -214,23 +214,23 @@ var mydataset = {
 		title: "Doodle",
 		descrip: "May 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/03/b1/16/03b1167c9d1eb7820f6f9162ce0a16f6.jpg",
+		link: "https://i.pinimg.com/originals/cf/5f/8d/cf5f8d412d8895c6ede099ab7f3eaf6e.jpg",
 		title: "叮嚀或聲明 <br> 精靈或蜻蜓 <br> 清明或精明 <br> 輕盈或昇平 <br> Rhymes",
 		descrip: "May 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/46/5d/aa/465daa40239c09171a79ce2bc8d006b8.jpg",
+		link: "https://i.pinimg.com/originals/e9/09/a1/e909a162e80a90371b3789b301fdf610.jpg",
 		title: "I Am 5a.m.",
 		descrip: "Apr 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/44/7d/67/447d67dc8a0b49dc168f88ea9c3718d7.jpg",
+		link: "https://i.pinimg.com/originals/7e/f2/05/7ef2051b49b593a226e092290b829155.jpg",
 		title: "New Generation",
 		descrip: "Apr 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/d7/95/b9/d795b96f485abe2f433a1421e49715b5.jpg",
+		link: "https://i.pinimg.com/originals/6b/4d/cb/6b4dcbff697e1b42f925f4e4b426b86a.jpg",
 		title: "The Kart To Freedom",
 		descrip: "Apr 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/17/45/80/17458063b057382361fad606793bb3b0.jpg",
+		link: "https://i.pinimg.com/originals/77/16/75/771675aafe912a62167faf382864cde8.jpg",
 		title: "舞弄著（被）<br> Tricked",
 		descrip: "Mar 2019"
 	}, {
@@ -238,7 +238,7 @@ var mydataset = {
 		title: "Sorrows",
 		descrip: "Feb 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/4d/00/d1/4d00d1b5c4d608dd320d3a28f30ccd11.jpg",
+		link: "https://i.pinimg.com/originals/2a/b5/8f/2ab58feddb2189d4b3c14f8aa60eb8b3.jpg",
 		title: "Seeing Through His Eyes",
 		descrip: "Jan 2019"
 	}, {
@@ -246,15 +246,15 @@ var mydataset = {
 		title: "我是個聽眾 <br> Audience",
 		descrip: "Jan 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/74/e5/e2/74e5e20ecfda27e1ff2f9fefd28f602b.jpg",
+		link: "https://i.pinimg.com/originals/92/19/46/921946997d654041cc9d488831c7c132.jpg",
 		title: "You Make Up Your Own Truth",
 		descrip: "Jan 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/01/ec/1b/01ec1b141d5dcabbb61e56e3cf27390c.jpg",
+		link: "https://i.pinimg.com/originals/de/45/7f/de457f659f3a74e18ddc3ad6a630e7a9.jpg",
 		title: "Inception",
 		descrip: "Jan 2019"
 	}, {
-		link: "https://i.pinimg.com/originals/f9/43/4a/f9434a6d092cb9795b1246ed1438da42.jpg",
+		link: "https://i.pinimg.com/originals/df/61/df/df61dff207ec1667776863fbb7bc1ce8.jpg",
 		title: "不記愛只記恨 <br> No Love",
 		descrip: "Dec 2018"
 	}, {
@@ -262,28 +262,36 @@ var mydataset = {
 		title: "A Speaker",
 		descrip: "Oct 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/ba/a7/f3/baa7f324e6747c258b16b9f22da98863.jpg",
+		link: "https://i.pinimg.com/originals/a3/39/a7/a339a779e1fb039059c3798261962eb2.jpg",
 		title: "Untitled",
 		descrip: "Aug 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/6b/c6/73/6bc673fc455840dacd37ca9c04560e93.jpg",
+		link: "https://i.pinimg.com/originals/84/bf/eb/84bfebec3fadf5c8095807cb438460c1.jpg",
 		title: "OK",
+		descrip: "Aug 2018"
+	}, {
+		link: "https://i.pinimg.com/originals/49/b8/9a/49b89a5ba1a7afb11a93b840770f7983.jpg",
+		title: "Convenience Store at Midnight ",
 		descrip: "Aug 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/3d/a5/53/3da55397a0bd89533aa232b5a5a72af2.jpg",
 		title: "Room",
 		descrip: "Aug 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/ae/72/c7/ae72c73f9fe6ebe8ac036f01005dbf22.jpg",
+		link: "https://i.pinimg.com/originals/5c/96/a9/5c96a9afada6e4f4add6e97e42a6a472.jpg",
 		title: "PSYCHO",
 		descrip: "July 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/05/01/f3/0501f3ccf6367848b3ae1d8af1640131.jpg",
+		link: "https://i.pinimg.com/originals/73/4e/f2/734ef20562a2b8356fb155b11eb77d44.jpg",
 		title: "Recording",
 		descrip: "July 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/ef/d9/ab/efd9ab0c7aa08c0534e69887a170b457.jpg",
+		link: "https://i.pinimg.com/originals/ee/12/39/ee1239275c6157adc53315d4b25e115e.jpg",
 		title: "I Make My own Luck",
+		descrip: "July 2018"
+	}, {
+		link: "https://i.pinimg.com/originals/7f/e7/40/7fe7400f883e80e92c8784cc187e2848.jpg",
+		title: "Friends",
 		descrip: "July 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/8f/84/93/8f849307d75da75b80f438ec4b259aba.jpg",
@@ -294,7 +302,7 @@ var mydataset = {
 		title: "Untitled",
 		descrip: "July 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/da/0c/56/da0c56ebb455c71f180295ad4835cc86.jpg",
+		link: "https://i.pinimg.com/originals/dc/d4/65/dcd4656202120d055109d620ab2b9b02.jpg",
 		title: "錢 <br> Chin",
 		descrip: "June 2018"
 	}, {
@@ -493,6 +501,14 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/ad/e0/b2/ade0b216269a2acc3e745a5550539538.jpg",
 		title: "Relationships",
+		descrip: "Aug 2017"
+	}, {
+		link: "https://i.pinimg.com/originals/92/bb/86/92bb86fe45da9d54ae6f69ed0424380e.jpg",
+		title: "Mulholland Drive",
+		descrip: "Aug 2017"
+	}, {
+		link: "https://i.pinimg.com/originals/84/5f/a9/845fa9225669256bf58f6cd5f8bd5ad7.jpg",
+		title: "Untitled",
 		descrip: "Aug 2017"
 	}],
 
