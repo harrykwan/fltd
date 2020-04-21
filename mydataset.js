@@ -562,5 +562,5 @@ var mydataset = {
 		descrip: ""
 	}],
 
-	coverpage: "https://i.pinimg.com/originals/b2/fc/86/b2fc8654a47d3731c1c42eb26699429a.jpg"
+	coverpage: "https://i.pinimg.com/originals/70/77/98/7077985313ea8615acac4765cee61b4a.jpg"
 }
