@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/27/6e/a7/276ea7e820f612331b4f46c2bf1df476.jpg",
+		title: "Untitled",
+		descrip: "Apr 2020"
+	},{
 		link: "https://i.pinimg.com/originals/42/9d/b6/429db6a9aa1b9a2606f9d0d8a9f264b7.jpg",
 		title: "The Pursuit of...",
 		descrip: "Apr 2020"
