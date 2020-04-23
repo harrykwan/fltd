@@ -1,7 +1,7 @@
 var mydataset = {
 	digitalartpage: [{
 		link: "https://i.pinimg.com/originals/35/59/c4/3559c4f426d4552dd91a8d7190b20b80.jpg",
-		title: "smile",
+		title: "Smile",
 		descrip: "Apr 2020 <br> Reproduction of SUFFERING"
 	},{
 		link: "https://i.pinimg.com/originals/fa/ca/05/faca055788e2eb87159e1301eed39c29.jpg",
