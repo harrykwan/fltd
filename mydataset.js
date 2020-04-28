@@ -1,11 +1,11 @@
 var mydataset = {
 	digitalartpage: [{
-		link: "https://i.pinimg.com/originals/47/2b/c5/472bc5eec56ea45d7d574e8e33e64b3d.jpg",
-		title: "人治",
+		link: "https://i.pinimg.com/originals/34/a9/4e/34a94e5914cf27b2b7f212e8b80ac80c.jpg",
+		title: "Dare to Dream",
 		descrip: "Apr 2020"
 	},{
-		link: "https://i.pinimg.com/originals/87/3a/c7/873ac72abfbf1b2043b3d97b560b285f.jpg",
-		title: "人字",
+		link: "https://i.pinimg.com/originals/47/2b/c5/472bc5eec56ea45d7d574e8e33e64b3d.jpg",
+		title: "人治",
 		descrip: "Apr 2020"
 	},{
 		link: "https://i.pinimg.com/originals/35/59/c4/3559c4f426d4552dd91a8d7190b20b80.jpg",
