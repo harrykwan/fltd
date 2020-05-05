@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/00/99/af/0099af71c34a6847694c026569605eaf.jpg",
+		title: "ideal / self / portrait",
+		descrip: "May 2020"
+	},{
 		link: "https://i.pinimg.com/originals/b1/a7/ea/b1a7ea7a7ecabbbf059be3d667ebaa9e.jpg",
 		title: "水",
 		descrip: "Apr 2020"
