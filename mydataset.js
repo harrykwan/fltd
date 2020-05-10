@@ -1,5 +1,13 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/58/ed/47/58ed473816bdde9c0fb7b62f9bbf3825.jpg",
+		title: "「而人總是脆弱的。」",
+		descrip: "May 2020"
+	},{
+		link: "https://i.pinimg.com/originals/63/48/ac/6348ac8eb0695d048bca89921b0b2e54.jpg",
+		title: "匆匆四年一個結束",
+		descrip: "May 2020"
+	},{
 		link: "https://i.pinimg.com/originals/00/99/af/0099af71c34a6847694c026569605eaf.jpg",
 		title: "ideal / self / portrait",
 		descrip: "May 2020"
@@ -459,6 +467,10 @@ var mydataset = {
 	}],
 
 	watercolourpage: [{
+		link: "https://i.pinimg.com/originals/68/cf/b8/68cfb822174dbf4d31ecca4d9d68aeb5.jpg",
+		title: "Mother's Day",
+		descrip: "May 2020"
+	},{
 		link: "https://i.pinimg.com/originals/1e/a4/37/1ea4377f8fbd653d677d5f88a81fb6ab.jpg",
 		title: "Wandering",
 		descrip: "Jan 2020"
