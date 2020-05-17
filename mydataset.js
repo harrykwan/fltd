@@ -1,5 +1,17 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/fa/53/d0/fa53d0af15feafe58a739b8d14788f19.jpg",
+		title: "Confession",
+		descrip: "May 2020"
+	},{
+		link: "https://i.pinimg.com/originals/be/60/b4/be60b4fcd794317a0ff8811d4f708fb0.jpg",
+		title: "在風來的時候",
+		descrip: "May 2020"
+	},{
+		link: "https://i.pinimg.com/originals/58/ed/47/58ed473816bdde9c0fb7b62f9bbf3825.jpg",
+		title: "「而人總是脆弱的。」",
+		descrip: "May 2020"
+	},{
 		link: "https://i.pinimg.com/originals/58/ed/47/58ed473816bdde9c0fb7b62f9bbf3825.jpg",
 		title: "「而人總是脆弱的。」",
 		descrip: "May 2020"
