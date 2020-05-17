@@ -12,10 +12,6 @@ var mydataset = {
 		title: "「而人總是脆弱的。」",
 		descrip: "May 2020"
 	},{
-		link: "https://i.pinimg.com/originals/58/ed/47/58ed473816bdde9c0fb7b62f9bbf3825.jpg",
-		title: "「而人總是脆弱的。」",
-		descrip: "May 2020"
-	},{
 		link: "https://i.pinimg.com/originals/63/48/ac/6348ac8eb0695d048bca89921b0b2e54.jpg",
 		title: "匆匆四年一個結束",
 		descrip: "May 2020"
