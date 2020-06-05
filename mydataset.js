@@ -1,6 +1,6 @@
 var mydataset = {
 	digitalartpage: [{
-		link: "https://i.pinimg.com/564x/23/41/9a/23419a1634b5884b5ec7551bb8645c15.jpg",
+		link: "https://i.pinimg.com/originals/23/41/9a/23419a1634b5884b5ec7551bb8645c15.jpg",
 		title: "Still",
 		descrip: "May 2020"
 	},{
@@ -491,7 +491,11 @@ var mydataset = {
 	}],
 
 	watercolourpage: [{
-		link: "https://i.pinimg.com/564x/64/32/cb/6432cb8eea24f9dfc8c0c32370fd6ff4.jpg",
+		link: "https://i.pinimg.com/originals/47/88/87/4788872591f463246059a23106a63a51.jpg",
+		title: "This is red",
+		descrip: "Jun 2020"
+	},{
+		link: "https://i.pinimg.com/originals/64/32/cb/6432cb8eea24f9dfc8c0c32370fd6ff4.jpg",
 		title: "狀態",
 		descrip: "May 2020"
 	},{
