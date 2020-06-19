@@ -60,24 +60,8 @@ var mydataset = {
 		title: "人治",
 		descrip: "Apr 2020"
 	},{
-		link: "https://i.pinimg.com/originals/35/59/c4/3559c4f426d4552dd91a8d7190b20b80.jpg",
-		title: "Smile",
-		descrip: "Apr 2020 <br> Reproduction of SUFFERING"
-	},{
 		link: "https://i.pinimg.com/originals/e3/58/99/e358998694e92b00ca8aa6a2d53bedb9.jpg",
-		title: "緩慢地撤退(3a.m.)",
-		descrip: "Apr 2020"
-	},{
-		link: "https://i.pinimg.com/originals/fa/ca/05/faca055788e2eb87159e1301eed39c29.jpg",
 		title: "緩慢地撤退",
-		descrip: "Apr 2020"
-	},{
-		link: "https://i.pinimg.com/originals/27/6e/a7/276ea7e820f612331b4f46c2bf1df476.jpg",
-		title: "Untitled",
-		descrip: "Apr 2020"
-	},{
-		link: "https://i.pinimg.com/originals/42/9d/b6/429db6a9aa1b9a2606f9d0d8a9f264b7.jpg",
-		title: "The Pursuit of...",
 		descrip: "Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
@@ -135,132 +119,12 @@ var mydataset = {
 		link: "https://i.pinimg.com/originals/33/2f/3d/332f3de81302a2808e231eee8eb5fda4.jpg",
 		title: "Helpless/Hopeless/What",
 		descrip: "Sep 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/7e/6a/de/7e6ade908566a992c6e3ef2ba66c5f58.jpg",
-		title: "前 <br> Forward",
-		descrip: "Sep 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/74/ff/55/74ff556893a24a4d636f29e0ae48aa3c.jpg",
-		title: "美好生活 <br> Life",
-		descrip: "July 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/af/1f/0c/af1f0cb23e5279e2e21e579a445249ad.jpg",
-		title: "The Pursuit Of",
-		descrip: "July 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/22/0b/16/220b167c793ad98b9d7e77b8531637b3.jpg",
-		title: "自由 <br> Freedom",
-		descrip: "June 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/a2/fa/21/a2fa21f03aa89ba862717739e345cc47.jpg",
-		title: "在滿洲里等你 <br> Sitting Still",
-		descrip: "June 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/c3/d8/f1/c3d8f16e390c64c21e4673979880e6a2.jpg",
-		title: "Hi Boss",
-		descrip: "May 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/05/6d/14/056d142aa85c8af53652c0c59e689f8d.jpg",
-		title: "Left",
-		descrip: "May 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/43/c7/ee/43c7eec740cde0a8c0454ac7c408d4c0.jpg",
-		title: "Period",
-		descrip: "Apr 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/aa/0f/36/aa0f36b2a9802490602e92a2bc1e6d95.jpg",
-		title: "But You Will",
-		descrip: "Apr 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/90/d0/1e/90d01ed1c1d19c04fe3ec9586009cdf9.jpg",
-		title: "And Your Bird Can Sing",
-		descrip: "Apr 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/e8/ee/46/e8ee468110f2a2ac8f1311148b9a29ef.jpg",
-		title: "Shouldn't Open The Door...",
-		descrip: "Feb 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/ef/6a/c6/ef6ac68405fe95fa002f791a050859ed.jpg",
-		title: "It's 5a.m. And My Pencil Is Dancing",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/e5/39/8c/e5398c93400806467eedcaa28f25e174.jpg",
-		title: "4a.m. And Apples",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/d1/53/c4/d153c4bd7c9be4aeaaf8f92b1ff28bb8.jpg",
-		title: "Untitled",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/d0/47/46/d0474669a5e06edce519f1bfe3c77a21.jpg",
-		title: "A Self-Portrait (maybe)",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/e1/58/89/e158898cc799b21451c1fbf2be749a04.jpg",
-		title: "0700s",
-		descrip: "Dec 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/2b/68/b4/2b68b417a786659008cff27e08b04099.jpg",
-		title: "A Modern Love Story",
-		descrip: "Dec 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/ef/cc/07/efcc07922931ef089c1685652fd41b42.jpg",
-		title: "Pour",
-		descrip: "Dec 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/02/35/28/02352807a3b173b9dfa0715b73dd23d9.jpg",
-		title: "On/Off",
-		descrip: "Dec 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/bd/5e/76/bd5e768e214fd02a9be99756565ce3a5.jpg",
-		title: "The Door To Loneliness",
-		descrip: "Dec 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/ee/78/6d/ee786d8c84bd1039a1bbc2cbb53693c6.jpg",
-		title: "雖然你不曾過來 <br> Fuck Off",
-		descrip: "Oct 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/31/03/f7/3103f78be20ec0b353c559e85d63711c.jpg",
-		title: "Chilling",
-		descrip: "Oct 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/37/0c/06/370c06165ecc3ae34045fc5a4537969f.jpg",
-		title: "面目 <br> Ferocious",
-		descrip: "Oct 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/9f/11/40/9f11400bd9a698d425fe6d7dd6a59f42.jpg",
-		title: "Ratner",
-		descrip: "Sep 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/57/67/44/576744db74320a5300fa3d6a2480ef94.jpg",
-		title: "Untitled",
-		descrip: "Sep 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/d3/5a/30/d35a30e5278f074d57b009d3633aab40.jpg",
-		title: "The Basement",
-		descrip: "Sep 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/55/6b/c0/556bc0e97d0963309316098d1c5b7707.jpg",
-		title: "Typhoon",
-		descrip: "Sep 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/ed/e2/7a/ede27ab5a2ef9dadf7c9f27d0906d182.jpg",
-		title: "Lost In The Sea",
-		descrip: "Sep 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/3a/f5/00/3af500f3c6ac4d24168df3874ded0f9e.jpg",
-		title: "Growth",
-		descrip: "Sep 2018"
 	}],
 
 	sketchpage: [{
 		link: "https://i.pinimg.com/originals/85/1b/d7/851bd7b1a5d18bfe504fb5b6bbc040de.jpg",
 		title: "Lover's Tears",
 		descrip: "Jan 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/e7/39/eb/e739eba6115fbdd4dbc85e7561aa83b3.jpg",
-		title: "Towel",
-		descrip: "Oct 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/2a/f5/ea/2af5ea67164d1b5313b5ad1a3705c385.jpg",
 		title: "知道自己不知道 <br> I Know I Don't Know",
@@ -593,14 +457,6 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/ad/e0/b2/ade0b216269a2acc3e745a5550539538.jpg",
 		title: "Relationships",
-		descrip: "Aug 2017"
-	}, {
-		link: "https://i.pinimg.com/originals/92/bb/86/92bb86fe45da9d54ae6f69ed0424380e.jpg",
-		title: "Mulholland Drive",
-		descrip: "Aug 2017"
-	}, {
-		link: "https://i.pinimg.com/originals/84/5f/a9/845fa9225669256bf58f6cd5f8bd5ad7.jpg",
-		title: "Untitled",
 		descrip: "Aug 2017"
 	}],
 
