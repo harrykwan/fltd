@@ -285,6 +285,10 @@ var mydataset = {
 
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/7b/df/f0/7bdff09ccda9b3cc8c21fbde1cb5ddd7.jpg",
+		title: "Untitled",
+		descrip: "Jun 2020"
+	},{
 		link: "https://i.pinimg.com/originals/71/de/0c/71de0c480177745cba724dbb2cfe3702.jpg",
 		title: "相信/懷疑/錯過",
 		descrip: "Apr 2020"
@@ -293,7 +297,7 @@ var mydataset = {
 		title: "A Dog In Dreams",
 		descrip: "Apr 2020"
 	}, {
-		link: "https://i.pinimg.com/originals/39/65/5f/39655f4a60e1491aa68198256069844a.jpg",
+		link: "https://i.pinimg.com/originals/44/a5/7b/44a57bb87bed568b8460244ac93fd46f.jpg",
 		title: "Urban Rainforest",
 		descrip: "Apr 2020"
 	}, {
