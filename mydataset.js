@@ -59,10 +59,6 @@ var mydataset = {
 		link: "https://i.pinimg.com/originals/47/2b/c5/472bc5eec56ea45d7d574e8e33e64b3d.jpg",
 		title: "人治",
 		descrip: "Apr 2020"
-	},{
-		link: "https://i.pinimg.com/originals/e3/58/99/e358998694e92b00ca8aa6a2d53bedb9.jpg",
-		title: "緩慢地撤退",
-		descrip: "Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
 		title: "沒什麽特別的",
@@ -129,10 +125,6 @@ var mydataset = {
 		link: "https://i.pinimg.com/originals/2a/f5/ea/2af5ea67164d1b5313b5ad1a3705c385.jpg",
 		title: "知道自己不知道 <br> I Know I Don't Know",
 		descrip: "Sep 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/b6/85/da/b685dab6498ff0e62d78e5d7305ea103.jpg",
-		title: "Memories",
-		descrip: "July 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/7f/f0/9f/7ff09f37eda5944fd211a87073132a34.jpg",
 		title: "隨想 <br> Thoughts",
@@ -285,7 +277,7 @@ var mydataset = {
 
 
 	paintingpage: [{
-		link: "https://i.pinimg.com/originals/7b/df/f0/7bdff09ccda9b3cc8c21fbde1cb5ddd7.jpg",
+		link: "https://i.pinimg.com/originals/a0/ec/c8/a0ecc82aa850b465ac3e80b8d6e78afc.jpg",
 		title: "Untitled",
 		descrip: "Jun 2020"
 	},{
