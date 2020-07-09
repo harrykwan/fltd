@@ -1,5 +1,13 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/15/cf/ab/15cfab402c8bcfcc49924aeacdbac992.jpg",
+		title: "A nap",
+		descrip: "Jul 2020"
+	},{
+		link: "https://i.pinimg.com/originals/70/b5/94/70b594de39b42acff56db954ab506953.jpg",
+		title: "About to",
+		descrip: "Jul 2020"
+	},{
 		link: "https://i.pinimg.com/originals/10/f1/13/10f1134336f7f9a664943da8b7b6d465.jpg",
 		title: "緩慢地撤退",
 		descrip: "Jun 2020"
@@ -64,34 +72,6 @@ var mydataset = {
 		title: "人治",
 		descrip: "Apr 2020"
 	}, {
-		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
-		title: "沒什麽特別的",
-		descrip: "Activation of Perspective Vol.7 <br> Photos and title provided by 山姆 <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/8c/db/f1/8cdbf13608aa3c20256a41afa119b179.jpg",
-		title: "遠方有光",
-		descrip: "Activation of Perspective Vol.6 <br> Photos and title provided by 輝 <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/22/2f/b4/222fb44a03fc70d32cbca913b7cd6486.jpg",
-		title: "Ashes",
-		descrip: "Activation of Perspective Vol.5 <br> Photos and title provided by egggrasschicken <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/26/86/26/2686269077410ec1d188c8ceb80b1a85.jpg",
-		title: "一環一約(城界1903)",
-		descrip: "Activation of Perspective Vol.4 <br> Photos and title provided by Manchi <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/aa/9e/56/aa9e568aaf7b8904d842e30b11e01649.jpg",
-		title: "眸某",
-		descrip: "Activation of Perspective Vol.3 <br> Photos and title provided by Synthia <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/a9/87/dc/a987dc84e234a1649c1f6327cae6eb77.jpg",
-		title: "池上書中杓下",
-		descrip: "Activation of Perspective Vol.2 <br> Photos and title provided by Gap仔 <br> Feb 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/33/9b/23/339b23a41d2d126e029fb4a69fc8dca7.jpg",
-		title: "Sucks To Suck",
-		descrip: "Activation of Perspective Vol.1 <br> Photos and title provided by 萬 <br> Feb 2020"
-	}, {
 		link: "https://i.pinimg.com/originals/e1/7f/f3/e17ff37175efbd158055054072aeeb3d.jpg",
 		title: "才觸摸到我悵然若失的某種情緒 <br> October's Frustration",
 		descrip: "Oct 2019"
@@ -110,14 +90,6 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/0a/f8/03/0af80317e5aff0efbf0e0d7bc3da7186.jpg",
 		title: "Cycle of Self-Consolation",
-		descrip: "Sep 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/2a/ca/5f/2aca5f4c7c8729542aa36f2772a4fb1d.jpg",
-		title: "You See See You",
-		descrip: "Sep 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/33/2f/3d/332f3de81302a2808e231eee8eb5fda4.jpg",
-		title: "Helpless/Hopeless/What",
 		descrip: "Sep 2019"
 	}],
 
@@ -460,54 +432,34 @@ var mydataset = {
 		descrip: "Aug 2017"
 	}],
 
-	poempage: [{
-		link: "https://i.pinimg.com/originals/f4/b5/5a/f4b55a31f9599ae6d854f39523c8355e.jpg",
-		title: "謊言",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/93/71/00/9371003da8b6bbfac2f0c61a9a2a8d7d.jpg",
-		title: "禮物",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/81/da/c4/81dac4c71f842327eaa1b8ddcd185048.jpg",
-		title: "午後",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/4d/41/05/4d410569010f8afd1fbb61c1528937a6.jpg",
-		title: "失眠",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/13/89/1b/13891b5f6c692aa6ca25e22e66567e04.jpg",
-		title: "墜落",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/da/bf/01/dabf017d192f1d36853e66b49cebe7c4.jpg",
-		title: "黑白",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/ca/db/55/cadb551f6f262424f93d684479dd3efb.jpg",
-		title: "滂沱",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/9b/00/6a/9b006a03093b95fe0529f12e2153c341.jpg",
-		title: "點火",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/bc/62/96/bc6296e727a26d42b152e4858165e095.jpg",
-		title: "起舞",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/6f/60/c5/6f60c55e791d2158a135f6d200996c1c.jpg",
-		title: "失明",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/a3/c3/a7/a3c3a708fccbcb0247ed162f81195f6d.jpg",
-		title: "盼望",
-		descrip: ""
-	},{
-		link: "https://i.pinimg.com/originals/a6/00/2a/a6002a6c384ea2b7f692a8b18c64ced5.jpg",
-		title: "高飛",
-		descrip: ""
+	projectspage: [ {
+		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
+		title: "沒什麽特別的",
+		descrip: "Activation of Perspective Vol.7 <br> Photos and title provided by 山姆 <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/8c/db/f1/8cdbf13608aa3c20256a41afa119b179.jpg",
+		title: "遠方有光",
+		descrip: "Activation of Perspective Vol.6 <br> Photos and title provided by 輝 <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/22/2f/b4/222fb44a03fc70d32cbca913b7cd6486.jpg",
+		title: "Ashes",
+		descrip: "Activation of Perspective Vol.5 <br> Photos and title provided by egggrasschicken <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/26/86/26/2686269077410ec1d188c8ceb80b1a85.jpg",
+		title: "一環一約(城界1903)",
+		descrip: "Activation of Perspective Vol.4 <br> Photos and title provided by Manchi <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/aa/9e/56/aa9e568aaf7b8904d842e30b11e01649.jpg",
+		title: "眸某",
+		descrip: "Activation of Perspective Vol.3 <br> Photos and title provided by Synthia <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/a9/87/dc/a987dc84e234a1649c1f6327cae6eb77.jpg",
+		title: "池上書中杓下",
+		descrip: "Activation of Perspective Vol.2 <br> Photos and title provided by Gap仔 <br> Feb 2020"
+	}, {
+		link: "https://i.pinimg.com/originals/33/9b/23/339b23a41d2d126e029fb4a69fc8dca7.jpg",
+		title: "Sucks To Suck",
+		descrip: "Activation of Perspective Vol.1 <br> Photos and title provided by 萬 <br> Feb 2020"
 	}],
 
 	coverpage: "https://i.pinimg.com/originals/be/60/b4/be60b4fcd794317a0ff8811d4f708fb0.jpg"
