@@ -466,5 +466,5 @@ var mydataset = {
 		descrip: "Activation of Perspective Vol.1 <br> Photos and title provided by 萬 <br> Feb 2020"
 	}],
 
-	coverpage: "https://i.pinimg.com/originals/be/60/b4/be60b4fcd794317a0ff8811d4f708fb0.jpg"
+	coverpage: "https://i.pinimg.com/originals/15/cf/ab/15cfab402c8bcfcc49924aeacdbac992.jpg"
 }
