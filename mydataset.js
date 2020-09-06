@@ -253,6 +253,10 @@ var mydataset = {
 
 
 	paintingpage: [{
+		link: "https://i.pinimg.com/originals/6e/ee/43/6eee4396b0ae3fe67edba652620f6346.jpg",
+		title: "房間",
+		descrip: "Sep 2020"
+	},{
 		link: "https://i.pinimg.com/originals/a0/ec/c8/a0ecc82aa850b465ac3e80b8d6e78afc.jpg",
 		title: "Untitled",
 		descrip: "Jun 2020"
