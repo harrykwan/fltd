@@ -255,7 +255,7 @@ var mydataset = {
 	paintingpage: [{
 		link: "https://i.pinimg.com/originals/56/4e/21/564e215e6f1c4c7799ac7c5c8f79362b.jpg",
 		title: "Untitled",
-		descrip: "Sep 2020 <br> sold"
+		descrip: "Sep 2020 <br> -sold-"
 	},{
 		link: "https://i.pinimg.com/originals/6e/ee/43/6eee4396b0ae3fe67edba652620f6346.jpg",
 		title: "房間",
@@ -283,7 +283,7 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/22/89/6a/22896aa8c354880736a765a998ad7979.jpg",
 		title: "世界永遠美麗只要你不在意有人正在死去",
-		descrip: "Mar 2020"
+		descrip: "Mar 2020 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/31/5b/84/315b841b1da6e58fe5d4275ff890f8e9.jpg",
 		title: "What Really Matters",
@@ -339,7 +339,7 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/f7/2a/55/f72a557d9a23092183568eb174cd6f8b.jpg",
 		title: "都市男女 <br> City Boys & Girls",
-		descrip: "Apr 2019 <br> sold"
+		descrip: "Apr 2019 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/1f/1e/ff/1f1effbec1b2432cea0d157dbfd2eb09.jpg",
 		title: "Untitled",
