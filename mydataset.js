@@ -267,83 +267,83 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/71/de/0c/71de0c480177745cba724dbb2cfe3702.jpg",
 		title: "相信/懷疑/錯過",
-		descrip: "Apr 2020"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/89/4e/1f/894e1f957422a0186ab0bdf7b992eda2.jpg",
 		title: "A Dog In Dreams",
-		descrip: "Apr 2020"
+		descrip: "Mixed media <br> 7.5 x 9 inches <br> Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/44/a5/7b/44a57bb87bed568b8460244ac93fd46f.jpg",
 		title: "Urban Rainforest",
-		descrip: "Apr 2020"
+		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/74/4c/1f/744c1fbb4512567a9e0a51a4b4add9eb.jpg",
 		title: "已是一無所知",
-		descrip: "Mar 2020"
+		descrip: "Acrylic on canvas <br> 15 x 15 cm <br> Mar 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/22/89/6a/22896aa8c354880736a765a998ad7979.jpg",
 		title: "世界永遠美麗只要你不在意有人正在死去",
-		descrip: "Mar 2020 <br> -sold-"
+		descrip: "Acrylic on panel <br> 20 x 20 cm <br> Mar 2020 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/31/5b/84/315b841b1da6e58fe5d4275ff890f8e9.jpg",
 		title: "What Really Matters",
-		descrip: "Feb 2020"
+		descrip: "Acrylic on canvas <br> 16 x 20  inches <br> Feb 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/47/e7/f4/47e7f4d8bbfe4c8460035fc903ad10aa.jpg",
 		title: "What You Know About Life",
-		descrip: "Jan 2020"
+		descrip: "Acrylic on panel <br> 9.5 x 13 inches <br> Jan 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/87/1b/72/871b727cc2d54e20536db1348c3954ac.jpg",
 		title: "春生 <br> To Live",
-		descrip: "Dec 2019"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Dec 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/a6/11/4a/a6114a6141a328dcbbf06ad8c47bfae2.jpg",
 		title: "無從",
-		descrip: "Nov 2019"
+		descrip: "Acrylic on canvas <br> Nov 2019 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/74/be/1e/74be1e2b1e72ab6c5c7ebe2784d5734b.jpg",
 		title: "竟踩著哀傷一個個犧牲 <br> nite",
-		descrip: "Nov 2019"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Nov 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/fb/2c/0e/fb2c0ec44fa31f7472596eaf0c160254.jpg",
 		title: "Moment",
-		descrip: "Nov 2019"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Nov 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/dc/ca/17/dcca173e52620e341af02de2e448e429.jpg",
 		title: "Summer",
-		descrip: "Aug 2019"
+		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/92/2c/f4/922cf4162993bae05b3708138bf782f2.jpg",
 		title: "理想國 <br> Idealism",
-		descrip: "Aug 2019"
+		descrip: "Acrylic on canvas <br> 18 x 24 inches <br> Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/40/ef/43/40ef43744b55bfd82d0a2d7395e12b3d.jpg",
 		title: "Face",
-		descrip: "July 2019"
+		descrip: "Acrylic on canvas <br> 12 x 26 inches <br> July 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/10/49/70/104970dacfa1e3270a1ac811f83ac6ad.jpg",
 		title: "Exhibition",
-		descrip: "June 2019"
+		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> June 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/97/fb/85/97fb8531be465ecf1169ba583ec9a9da.jpg",
 		title: "我們都一樣 <br> We Are All The Same",
-		descrip: "May 2019"
+		descrip: "Acrylic on canvas <br> 14 x 18 inches <br> May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/b2/fc/86/b2fc8654a47d3731c1c42eb26699429a.jpg",
 		title: "Someone's Room",
-		descrip: "May 2019"
+		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/a6/c4/12/a6c412141e1eb90ad775a4926290252d.jpg",
 		title: "告白 <br> Confession ",
-		descrip: "Apr 2019"
+		descrip: "Acrylic on canvas <br> 42 x 60 cm <br> Apr 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/f7/2a/55/f72a557d9a23092183568eb174cd6f8b.jpg",
 		title: "都市男女 <br> City Boys & Girls",
-		descrip: "Apr 2019 <br> -sold-"
+		descrip: "Acrylic on panel <br> 12 x 16 inches <br> Apr 2019 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/1f/1e/ff/1f1effbec1b2432cea0d157dbfd2eb09.jpg",
 		title: "Untitled",
-		descrip: "Mar 2019"
+		descrip: "Acrylic on canvas <br> 10 x 14 inches <br> Mar 2019"
 	}],
 
 	watercolourpage: [{
