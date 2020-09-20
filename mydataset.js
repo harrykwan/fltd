@@ -255,15 +255,15 @@ var mydataset = {
 	paintingpage: [{
 		link: "https://i.pinimg.com/originals/56/4e/21/564e215e6f1c4c7799ac7c5c8f79362b.jpg",
 		title: "Untitled",
-		descrip: "Sep 2020 <br> -sold-"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020 <br> -sold-"
 	},{
 		link: "https://i.pinimg.com/originals/6e/ee/43/6eee4396b0ae3fe67edba652620f6346.jpg",
 		title: "房間",
-		descrip: "Sep 2020"
+		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/ee/61/7e/ee617e13e9018b17a06a5982cd6a2330.jpg",
 		title: "Untitled",
-		descrip: "Jun 2020"
+		descrip: "Acrylic on canvas <br> 20 x 24 inches <br> Jun 2020"
 	},{
 		link: "https://i.pinimg.com/originals/71/de/0c/71de0c480177745cba724dbb2cfe3702.jpg",
 		title: "相信/懷疑/錯過",
