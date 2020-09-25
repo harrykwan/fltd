@@ -1,5 +1,41 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/a4/58/72/a458727f507a29d152089da3df900ea1.jpg",
+		title: "I'm here.",
+		descrip: "Sep 2020"
+	},{
+		link: "https://i.pinimg.com/originals/88/25/32/882532fbb88b9788a3a9c76a6145d3b1.jpg",
+		title: "Composition (Long Journey)",
+		descrip: "Sep 2020"
+	},{
+		link: "https://i.pinimg.com/originals/20/81/a8/2081a898f1b8173fc3decfcc0c88cc67.jpg",
+		title: "Composition (Sentimental)",
+		descrip: "Sep 2020"
+	},{
+		link: "https://i.pinimg.com/originals/65/22/be/6522be88276d9c31891aeed79ae379cc.jpg",
+		title: "Composition 97",
+		descrip: "Sep 2020"
+	},{
+		link: "https://i.pinimg.com/originals/41/a7/5e/41a75e3005da4d5b34a8d07a6b70ec51.jpg",
+		title: "迷途天使",
+		descrip: "Aug 2020"
+	},{
+		link: "https://i.pinimg.com/originals/c9/59/b5/c959b5423bcb47866f81dfd904f873cf.jpg",
+		title: "Routes",
+		descrip: "Aug 2020"
+	},{
+		link: "https://i.pinimg.com/originals/f9/d4/ed/f9d4eded0307924c7d2e29a7c512e3f9.jpg",
+		title: "31",
+		descrip: "Aug 2020"
+	},{
+		link: "https://i.pinimg.com/originals/61/b1/0c/61b10cfb14598a4909a78f0e441e2f88.jpg",
+		title: "Tolerance",
+		descrip: "Aug 2020"
+	},{
+		link: "https://i.pinimg.com/originals/79/eb/45/79eb45c8a834e805784d3ede78ed7fcf.jpg",
+		title: "Eggs",
+		descrip: "Aug 2020"
+	},{
 		link: "https://i.pinimg.com/originals/2b/f7/e6/2bf7e686141a8ee4850848dbfb7157e1.jpg",
 		title: "Untitled",
 		descrip: "Aug 2020"
