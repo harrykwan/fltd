@@ -1,5 +1,17 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/2b/f7/e6/2bf7e686141a8ee4850848dbfb7157e1.jpg",
+		title: "Untitled",
+		descrip: "Aug 2020"
+	},{
+		link: "https://i.pinimg.com/originals/6d/9c/5b/6d9c5b642111f4b3822d5e524cd304be.jpg",
+		title: "Untitled",
+		descrip: "Jul 2020"
+	},{
+		link: "https://i.pinimg.com/originals/df/73/0d/df730db96d55511ac9ccbde4a6d7b179.jpg",
+		title: "Entering",
+		descrip: "Jul 2020"
+	},{
 		link: "https://i.pinimg.com/originals/46/89/23/4689232547f5eccbc8429e46455f73ab.jpg",
 		title: "Untitled",
 		descrip: "Jul 2020"
