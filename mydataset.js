@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/13/6d/ff/136dffd87c9203b5e2226a129ba09fb5.jpg",
+		title: "過",
+		descrip: "Sep 2020"
+	},{
 		link: "https://i.pinimg.com/originals/a4/58/72/a458727f507a29d152089da3df900ea1.jpg",
 		title: "I'm here.",
 		descrip: "Sep 2020"
@@ -497,6 +501,10 @@ var mydataset = {
 	}],
 
 	poempage: [ {
+		link: "https://i.pinimg.com/originals/f5/90/32/f5903223a22e814802f2620361aae55e.jpg",
+		title: "路",
+		descrip: "旋轉詩實驗 <br> Apr-Sep2020"
+	},{
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
 		title: "沒什麽特別的",
 		descrip: "Activation of Perspective Vol.7 <br> Photos and title provided by 山姆 <br> Feb 2020"
