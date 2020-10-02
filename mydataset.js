@@ -505,9 +505,13 @@ var mydataset = {
 	}],
 
 	poempage: [ {
+		link: "https://i.pinimg.com/originals/ab/6d/67/ab6d678c5bb888681472949d083ec0e1.jpg",
+		title: "詩的實踐",
+		descrip: "Homage to 顧城 <br> Jul 2020"
+	},{
 		link: "https://i.pinimg.com/originals/f5/90/32/f5903223a22e814802f2620361aae55e.jpg",
 		title: "路",
-		descrip: "旋轉詩實驗 <br> Apr-Sep2020"
+		descrip: "旋轉詩實驗 <br> Apr 2020"
 	},{
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
 		title: "沒什麽特別的",
