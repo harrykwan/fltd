@@ -1,11 +1,11 @@
 var mydataset = {
 	digitalartpage: [{
 		link: "https://i.pinimg.com/originals/67/25/49/67254948d774a56a3ed6f1894b679bc2.jpg",
-		title: "狀態",
+		title: "狀態 <br> Status",
 		descrip: "Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/13/6d/ff/136dffd87c9203b5e2226a129ba09fb5.jpg",
-		title: "過",
+		title: "過 <br> Passing",
 		descrip: "Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/a4/58/72/a458727f507a29d152089da3df900ea1.jpg",
@@ -25,7 +25,7 @@ var mydataset = {
 		descrip: "Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/41/a7/5e/41a75e3005da4d5b34a8d07a6b70ec51.jpg",
-		title: "迷途天使",
+		title: "迷途天使 <br> Lost Angel",
 		descrip: "Aug 2020"
 	},{
 		link: "https://i.pinimg.com/originals/c9/59/b5/c959b5423bcb47866f81dfd904f873cf.jpg",
@@ -69,11 +69,11 @@ var mydataset = {
 		descrip: "Jul 2020"
 	},{
 		link: "https://i.pinimg.com/originals/10/f1/13/10f1134336f7f9a664943da8b7b6d465.jpg",
-		title: "緩慢地撤退",
+		title: "緩慢地撤退 <br> Withdrawing",
 		descrip: "Jun 2020"
 	},{
 		link: "https://i.pinimg.com/originals/10/1d/b5/101db510843efb17f6634629125c2eba.jpg",
-		title: "霧",
+		title: "霧 <br> The Fog",
 		descrip: "Jun 2020"
 	},{
 		link: "https://i.pinimg.com/originals/7d/2c/a2/7d2ca29be50e9f005fa8b1556d769391.jpg",
@@ -93,27 +93,27 @@ var mydataset = {
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/83/11/c0/8311c0b7b849190c8f7f52d82faddcf8.jpg",
-		title: "不默而生...",
+		title: "不默而生... <br> Resist",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/54/b9/de/54b9de4f809a6f3296c2c17d1a3cbff0.jpg",
 		title: "Trapped",
-		descrip: "May 2020 <br> 流入俗世顛簸之旅"
+		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/fa/53/d0/fa53d0af15feafe58a739b8d14788f19.jpg",
 		title: "Confession",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/be/60/b4/be60b4fcd794317a0ff8811d4f708fb0.jpg",
-		title: "在風來的時候",
+		title: "在風來的時候 <br> When The Wind Comes",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/58/ed/47/58ed473816bdde9c0fb7b62f9bbf3825.jpg",
-		title: "「而人總是脆弱的。」",
+		title: "「而人總是脆弱的。」<br> Fragility",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/63/48/ac/6348ac8eb0695d048bca89921b0b2e54.jpg",
-		title: "匆匆四年一個結束",
+		title: "匆匆四年一個結束 <br> Graduation",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/00/99/af/0099af71c34a6847694c026569605eaf.jpg",
@@ -322,7 +322,7 @@ var mydataset = {
 		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020 <br> -sold-"
 	},{
 		link: "https://i.pinimg.com/originals/6e/ee/43/6eee4396b0ae3fe67edba652620f6346.jpg",
-		title: "房間",
+		title: "房間 <br> The Room",
 		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/ee/61/7e/ee617e13e9018b17a06a5982cd6a2330.jpg",
