@@ -1,11 +1,27 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/e9/23/e9/e923e9a5508ef95ce939fb3e24a8106b.jpg",
+		title: "Jenny with cigarette",
+		descrip: "Oct 2020"
+	},{
+		link: "https://i.pinimg.com/originals/da/50/69/da5069f53f1a80bd6cbd7ffc5475592c.jpg",
+		title: "來到了最後",
+		descrip: "Oct 2020"
+	},{
+		link: "https://i.pinimg.com/originals/f1/63/92/f163928c743e4cbeb91ac052498809fb.jpg",
+		title: "Untitled",
+		descrip: "Oct 2020"
+	},{
+		link: "https://i.pinimg.com/originals/87/60/b8/8760b89b41331bb6fadfa7492c56ac97.jpg",
+		title: "Untitled",
+		descrip: "Oct 2020"
+	},{
 		link: "https://i.pinimg.com/originals/67/25/49/67254948d774a56a3ed6f1894b679bc2.jpg",
-		title: "狀態 <br> Status",
+		title: "Untitled",
 		descrip: "Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/13/6d/ff/136dffd87c9203b5e2226a129ba09fb5.jpg",
-		title: "過 <br> Passing",
+		title: "Untitled",
 		descrip: "Sep 2020"
 	},{
 		link: "https://i.pinimg.com/originals/a4/58/72/a458727f507a29d152089da3df900ea1.jpg",
@@ -337,7 +353,7 @@ var mydataset = {
 		title: "A Dog In Dreams",
 		descrip: "Mixed media <br> 7.5 x 9 inches <br> Apr 2020"
 	}, {
-		link: "https://i.pinimg.com/originals/44/a5/7b/44a57bb87bed568b8460244ac93fd46f.jpg",
+		link: "https://i.pinimg.com/originals/18/33/dc/1833dcb2565ea802f551f1846de6fce8.jpg",
 		title: "Urban Rainforest",
 		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> Apr 2020"
 	}, {
