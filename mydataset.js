@@ -539,7 +539,7 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/2a/29/fd/2a29fdf4c58bea4001e021b264a9ab44.jpg",
 		title: "關係",
-		descrip: "Activation of Perspective Vol.8 <br> Photos provided by Aaron, Cynthia, Rielle, Shirley and me <br> Oct 2020"
+		descrip: "Activation of Perspective Vol.8 <br> Photos provided by Cynthia, Lemonade, Rielle, Shirley and me <br> Oct 2020"
 	},{
 		link: "https://i.pinimg.com/originals/fe/10/37/fe1037c14681fceb9a2837f1034d12cf.jpg",
 		title: "沒什麽特別的",
