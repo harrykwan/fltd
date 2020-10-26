@@ -1,5 +1,9 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/38/ec/e6/38ece65b8add91e9fd95f3d2f510ac6a.jpg",
+		title: "Untitled",
+		descrip: "Oct 2020"
+	},{
 		link: "https://i.pinimg.com/originals/e8/a8/82/e8a882f5d64c733be3cc0c7cc488dd87.jpg",
 		title: "如果你<br>如果我",
 		descrip: "Oct 2020"
@@ -574,5 +578,5 @@ var mydataset = {
 		descrip: "Activation of Perspective Vol.1 <br> Photos and title provided by 萬 <br> Feb 2020"
 	}],
 
-	coverpage: "https://i.pinimg.com/originals/56/4e/21/564e215e6f1c4c7799ac7c5c8f79362b.jpg"
+	coverpage: "https://i.pinimg.com/originals/da/50/69/da5069f53f1a80bd6cbd7ffc5475592c.jpg"
 }
