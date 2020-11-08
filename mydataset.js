@@ -1,5 +1,13 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/cc/ee/7d/ccee7d6f5a81a3222c37306e4aa1011a.jpg",
+		title: "Evanescent",
+		descrip: "Nov 2020"
+	},{
+		link: "https://i.pinimg.com/originals/e8/6b/41/e86b412cb055b0445c56c7a9bcbe1e89.jpg",
+		title: "How are you",
+		descrip: "Nov 2020"
+	},{
 		link: "https://i.pinimg.com/originals/11/00/e1/1100e14187b8e96f43e7d0aaa50a78e1.jpg",
 		title: "告別",
 		descrip: "Oct 2020"
@@ -541,6 +549,10 @@ var mydataset = {
 	}],
 
 	poempage: [{
+		link: "https://i.pinimg.com/originals/de/93/16/de9316c5d4beaa8e47c826640620e49a.jpg",
+		title: "Single Cover of 夢遺天使",
+		descrip: "Nov 2020"
+	},{
 		link: "https://i.pinimg.com/originals/ab/6d/67/ab6d678c5bb888681472949d083ec0e1.jpg",
 		title: "詩的實踐",
 		descrip: "Homage to 顧城 <br> Jul 2020"
