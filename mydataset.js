@@ -550,7 +550,7 @@ var mydataset = {
 
 	poempage: [{
 		link: "https://i.pinimg.com/originals/de/93/16/de9316c5d4beaa8e47c826640620e49a.jpg",
-		title: "Single Cover of 夢遺天使",
+		title: "Single Cover of<br>夢遺天使",
 		descrip: "Nov 2020"
 	},{
 		link: "https://i.pinimg.com/originals/ab/6d/67/ab6d678c5bb888681472949d083ec0e1.jpg",
