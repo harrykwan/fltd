@@ -227,15 +227,15 @@ var mydataset = {
 		descrip: "Sep 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/7f/f0/9f/7ff09f37eda5944fd211a87073132a34.jpg",
-		title: "隨想 <br> Thoughts",
+		title: "Thoughts",
 		descrip: "June 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/2a/98/10/2a981072a4067de90ebed09ca49b54a4.jpg",
-		title: "手套與手 <br> Gloves And Hands",
+		title: " Gloves And Hands",
 		descrip: "June 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/ef/a5/7b/efa57be17a7e4f61286b186205e2d7d6.jpg",
-		title: "歲月靜好 <br> Water",
+		title: "歲月靜好",
 		descrip: "June 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/1a/a9/56/1aa9566538e246bddb2d2f5b217dae4d.jpg",
@@ -247,7 +247,7 @@ var mydataset = {
 		descrip: "May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/cf/5f/8d/cf5f8d412d8895c6ede099ab7f3eaf6e.jpg",
-		title: "精靈或蜻蜓 <br> Rhymes",
+		title: "精靈或蜻蜓",
 		descrip: "May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/e9/09/a1/e909a162e80a90371b3789b301fdf610.jpg",
@@ -263,12 +263,8 @@ var mydataset = {
 		descrip: "Apr 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/77/16/75/771675aafe912a62167faf382864cde8.jpg",
-		title: "舞弄著(被)<br> Tricked",
+		title: "舞弄著(被)",
 		descrip: "Mar 2019"
-	},  {
-		link: "https://i.pinimg.com/originals/92/19/46/921946997d654041cc9d488831c7c132.jpg",
-		title: "You Make Up Your Own Truth",
-		descrip: "Jan 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/84/e5/ec/84e5ecf5f13bc5cc1a278f68a8d7274c.jpg",
 		title: "A Speaker",
@@ -298,32 +294,20 @@ var mydataset = {
 		title: "Multiplayer",
 		descrip: "July 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/e6/be/6b/e6be6b339fb3051e333f20bcc0e28371.jpg",
-		title: "Untitled",
-		descrip: "July 2018"
-	}, {
 		link: "https://i.pinimg.com/originals/dc/d4/65/dcd4656202120d055109d620ab2b9b02.jpg",
 		title: "錢 <br> Chin",
 		descrip: "June 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/52/5a/59/525a5969f7df9e72ec6a18ee93ccf0e3.jpg",
-		title: "只有不是自己才安全 <br> You Are Safe Only When You Are Not Yourself",
+		title: "You're Safe Only When You Are Not Yourself",
 		descrip: "June 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/7f/e7/40/7fe7400f883e80e92c8784cc187e2848.jpg",
 		title: "Friends",
 		descrip: "July 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/58/13/ba/5813ba203d986a0a14108f5b1c76de06.jpg",
-		title: "A Hug",
-		descrip: "May 2019 <br> MAY'S SPECIAL"
-	}, {
-		link: "https://i.pinimg.com/originals/0b/69/8e/0b698e8233987dd5503d9186cc1702b0.jpg",
-		title: "辛苦笑著快樂痛 <br> Suffering",
-		descrip: "May 2019 <br> MAY'S SPECIAL"
-	}, {
 		link: "https://i.pinimg.com/originals/23/2e/d3/232ed39dff383a7ab84e47afe2134373.jpg",
-		title: "也刺在我的心臟 <br> Stab My Heart",
+		title: "也刺在我的心臟",
 		descrip: "May 2019 <br> MAY'S SPECIAL"
 	}, {
 		link: "https://i.pinimg.com/originals/8e/9c/ee/8e9ceefda30ad24354c924797ced48b5.jpg",
@@ -331,7 +315,7 @@ var mydataset = {
 		descrip: "May 2019 <br> MAY'S SPECIAL"
 	}, {
 		link: "https://i.pinimg.com/originals/b6/b2/1b/b6b21bbd77dcc9fb1a6b970e54259a9e.jpg",
-		title: "找個最安靜的角落坐下然後消失 <br> Procedure",
+		title: "找個最安靜的角落坐下然後消失",
 		descrip: "May 2019 <br> MAY'S SPECIAL"
 	}, {
 		link: "https://i.pinimg.com/originals/87/2b/a1/872ba1c71631480b9bcdf2f37ba8358d.jpg",
@@ -355,7 +339,7 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/71/de/0c/71de0c480177745cba724dbb2cfe3702.jpg",
 		title: "相信/懷疑/錯過",
-		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Apr 2020"
+		descrip: "Acrylic on canvas <br> 16 x 12 inches <br> Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/89/4e/1f/894e1f957422a0186ab0bdf7b992eda2.jpg",
 		title: "A Dog In Dreams",
@@ -367,15 +351,15 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/74/4c/1f/744c1fbb4512567a9e0a51a4b4add9eb.jpg",
 		title: "LOVE",
-		descrip: "Acrylic on canvas <br> 15 x 15 cm <br> Mar 2020"
+		descrip: "Acrylic on canvas <br> 150 x 150 mm <br> Mar 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/22/89/6a/22896aa8c354880736a765a998ad7979.jpg",
 		title: "世界永遠美麗只要你不在意有人正在死去",
-		descrip: "Acrylic on panel <br> 20 x 20 cm <br> Mar 2020 <br> -sold-"
+		descrip: "Acrylic on panel <br> 200 x 200 mm <br> Mar 2020 <br> -sold-"
 	}, {
 		link: "https://i.pinimg.com/originals/31/5b/84/315b841b1da6e58fe5d4275ff890f8e9.jpg",
 		title: "What Really Matters",
-		descrip: "Acrylic on canvas <br> 16 x 20  inches <br> Feb 2020"
+		descrip: "Acrylic on canvas <br> 20 x 16 inches <br> Feb 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/47/e7/f4/47e7f4d8bbfe4c8460035fc903ad10aa.jpg",
 		title: "What You Know About Life",
@@ -383,7 +367,7 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/87/1b/72/871b727cc2d54e20536db1348c3954ac.jpg",
 		title: "春生 <br> To Live",
-		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Dec 2019"
+		descrip: "Acrylic on canvas <br> 16 x 12 inches <br> Dec 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/a6/11/4a/a6114a6141a328dcbbf06ad8c47bfae2.jpg",
 		title: "無從",
@@ -391,15 +375,15 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/74/be/1e/74be1e2b1e72ab6c5c7ebe2784d5734b.jpg",
 		title: "竟踩著哀傷一個個犧牲 <br> nite",
-		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Nov 2019"
+		descrip: "Acrylic on canvas <br> 16 x 12 inches <br> Nov 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/fb/2c/0e/fb2c0ec44fa31f7472596eaf0c160254.jpg",
 		title: "Moment",
-		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Nov 2019"
+		descrip: "Acrylic on canvas <br> 16 x 12 inches <br> Nov 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/dc/ca/17/dcca173e52620e341af02de2e448e429.jpg",
 		title: "Summer",
-		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> Aug 2019"
+		descrip: "Acrylic on canvas <br> 20 x 16 inches <br> Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/92/2c/f4/922cf4162993bae05b3708138bf782f2.jpg",
 		title: "理想國 <br> Idealism",
@@ -407,11 +391,11 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/40/ef/43/40ef43744b55bfd82d0a2d7395e12b3d.jpg",
 		title: "Face",
-		descrip: "Acrylic on canvas <br> 12 x 26 inches <br> July 2019"
+		descrip: "Acrylic on canvas <br> 16 x 12 inches <br> July 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/10/49/70/104970dacfa1e3270a1ac811f83ac6ad.jpg",
 		title: "Exhibition",
-		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> June 2019"
+		descrip: "Acrylic on canvas <br> 20 x 16 inches <br> June 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/97/fb/85/97fb8531be465ecf1169ba583ec9a9da.jpg",
 		title: "我們都一樣 <br> We Are All The Same",
@@ -427,7 +411,7 @@ var mydataset = {
 	}, {
 		link: "https://i.pinimg.com/originals/1f/1e/ff/1f1effbec1b2432cea0d157dbfd2eb09.jpg",
 		title: "Untitled",
-		descrip: "Acrylic on canvas <br> 10 x 14 inches <br> Mar 2019"
+		descrip: "Acrylic on canvas <br> 14 x 10 inches <br> Mar 2019"
 	}],
 
 	watercolourpage: [{
