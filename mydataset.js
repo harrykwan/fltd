@@ -1,5 +1,29 @@
 var mydataset = {
 	digitalartpage: [{
+		link: "https://i.pinimg.com/originals/80/44/2b/80442be35caf43a9784566508b838754.jpg",
+		title: "Untitled (12)",
+		descrip: "Jan 2021"
+	},{
+		link: "https://i.pinimg.com/originals/14/e4/f4/14e4f410b0e16c70558460eee41847f0.jpg",
+		title: "Outro 2020",
+		descrip: "Dec 2020"
+	},{
+		link: "https://i.pinimg.com/originals/e5/93/2d/e5932d7d3486b27d22869d08acaabd0c.jpg",
+		title: "Lovers",
+		descrip: "Dec 2020"
+	},{
+		link: "https://i.pinimg.com/originals/be/bc/43/bebc439ea0b94d66837c1db6c877de16.jpg",
+		title: "Lovers",
+		descrip: "Dec 2020"
+	},{
+		link: "https://i.pinimg.com/originals/17/6f/76/176f76cbe5dda9641cb7ccdae31ac01b.jpg",
+		title: "Lovers",
+		descrip: "Dec 2020"
+	},{
+		link: "https://i.pinimg.com/originals/a7/61/ac/a761ac33b2c9408783226c6f8f3a31f3.jpg",
+		title: "Untitled",
+		descrip: "Dec 2020"
+	},{
 		link: "https://i.pinimg.com/originals/f2/7b/c3/f27bc3209c98e0b4da74f985f0a5aca1.jpg",
 		title: "Somewhere",
 		descrip: "Nov 2020"
