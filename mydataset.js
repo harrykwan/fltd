@@ -44,10 +44,6 @@ var mydataset = {
 		title: "Untitled",
 		descrip: "Oct 2020"
 	},{
-		link: "https://i.pinimg.com/originals/e8/a8/82/e8a882f5d64c733be3cc0c7cc488dd87.jpg",
-		title: "如果你<br>如果我",
-		descrip: "Oct 2020"
-	},{
 		link: "https://i.pinimg.com/originals/04/d8/2d/04d82d37195fd83e6e6e8279988fa663.jpg",
 		title: "Untitled",
 		descrip: "Oct 2020"
@@ -188,10 +184,6 @@ var mydataset = {
 		title: "ideal / self / portrait",
 		descrip: "May 2020"
 	},{
-		link: "https://i.pinimg.com/originals/b1/a7/ea/b1a7ea7a7ecabbbf059be3d667ebaa9e.jpg",
-		title: "水",
-		descrip: "Apr 2020"
-	},{
 		link: "https://i.pinimg.com/originals/34/a9/4e/34a94e5914cf27b2b7f212e8b80ac80c.jpg",
 		title: "Dare to Dream",
 		descrip: "Apr 2020"
@@ -255,7 +247,7 @@ var mydataset = {
 		descrip: "May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/cf/5f/8d/cf5f8d412d8895c6ede099ab7f3eaf6e.jpg",
-		title: "叮嚀或聲明 <br> 精靈或蜻蜓 <br> 清明或精明 <br> 輕盈或昇平 <br> Rhymes",
+		title: "精靈或蜻蜓 <br> Rhymes",
 		descrip: "May 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/e9/09/a1/e909a162e80a90371b3789b301fdf610.jpg",
@@ -271,32 +263,12 @@ var mydataset = {
 		descrip: "Apr 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/77/16/75/771675aafe912a62167faf382864cde8.jpg",
-		title: "舞弄著（被）<br> Tricked",
+		title: "舞弄著(被)<br> Tricked",
 		descrip: "Mar 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/75/e4/f1/75e4f1c446fb1600e12a26088d3fd3d8.jpg",
-		title: "Sorrows",
-		descrip: "Feb 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/2a/b5/8f/2ab58feddb2189d4b3c14f8aa60eb8b3.jpg",
-		title: "Seeing Through His Eyes",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/19/59/f1/1959f105edd9f3625605324f21293b66.jpg",
-		title: "我是個聽眾 <br> Audience",
-		descrip: "Jan 2019"
-	}, {
+	},  {
 		link: "https://i.pinimg.com/originals/92/19/46/921946997d654041cc9d488831c7c132.jpg",
 		title: "You Make Up Your Own Truth",
 		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/de/45/7f/de457f659f3a74e18ddc3ad6a630e7a9.jpg",
-		title: "Inception",
-		descrip: "Jan 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/df/61/df/df61dff207ec1667776863fbb7bc1ce8.jpg",
-		title: "不記愛只記恨 <br> No Love",
-		descrip: "Dec 2018"
 	}, {
 		link: "https://i.pinimg.com/originals/84/e5/ec/84e5ecf5f13bc5cc1a278f68a8d7274c.jpg",
 		title: "A Speaker",
@@ -318,22 +290,10 @@ var mydataset = {
 		title: "Room",
 		descrip: "Aug 2018"
 	}, {
-		link: "https://i.pinimg.com/originals/5c/96/a9/5c96a9afada6e4f4add6e97e42a6a472.jpg",
-		title: "PSYCHO",
-		descrip: "July 2018"
-	}, {
 		link: "https://i.pinimg.com/originals/73/4e/f2/734ef20562a2b8356fb155b11eb77d44.jpg",
 		title: "Recording",
 		descrip: "July 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/ee/12/39/ee1239275c6157adc53315d4b25e115e.jpg",
-		title: "I Make My own Luck",
-		descrip: "July 2018"
-	}, {
-		link: "https://i.pinimg.com/originals/7f/e7/40/7fe7400f883e80e92c8784cc187e2848.jpg",
-		title: "Friends",
-		descrip: "July 2018"
-	}, {
+	},  {
 		link: "https://i.pinimg.com/originals/8f/84/93/8f849307d75da75b80f438ec4b259aba.jpg",
 		title: "Multiplayer",
 		descrip: "July 2018"
@@ -350,16 +310,16 @@ var mydataset = {
 		title: "只有不是自己才安全 <br> You Are Safe Only When You Are Not Yourself",
 		descrip: "June 2018"
 	}, {
+		link: "https://i.pinimg.com/originals/7f/e7/40/7fe7400f883e80e92c8784cc187e2848.jpg",
+		title: "Friends",
+		descrip: "July 2018"
+	}, {
 		link: "https://i.pinimg.com/originals/58/13/ba/5813ba203d986a0a14108f5b1c76de06.jpg",
 		title: "A Hug",
 		descrip: "May 2019 <br> MAY'S SPECIAL"
 	}, {
 		link: "https://i.pinimg.com/originals/0b/69/8e/0b698e8233987dd5503d9186cc1702b0.jpg",
 		title: "辛苦笑著快樂痛 <br> Suffering",
-		descrip: "May 2019 <br> MAY'S SPECIAL"
-	}, {
-		link: "https://i.pinimg.com/originals/36/25/91/36259114b7c9cccc195ee31cdfae065c.jpg",
-		title: "Honey",
 		descrip: "May 2019 <br> MAY'S SPECIAL"
 	}, {
 		link: "https://i.pinimg.com/originals/23/2e/d3/232ed39dff383a7ab84e47afe2134373.jpg",
@@ -389,10 +349,6 @@ var mydataset = {
 		title: "Untitled",
 		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020 <br> -sold-"
 	},{
-		link: "https://i.pinimg.com/originals/6e/ee/43/6eee4396b0ae3fe67edba652620f6346.jpg",
-		title: "房間 <br> The Room",
-		descrip: "Acrylic on canvas <br> 12 x 16 inches <br> Sep 2020"
-	},{
 		link: "https://i.pinimg.com/originals/ee/61/7e/ee617e13e9018b17a06a5982cd6a2330.jpg",
 		title: "Untitled",
 		descrip: "Acrylic on canvas <br> 20 x 24 inches <br> Jun 2020"
@@ -410,7 +366,7 @@ var mydataset = {
 		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> Apr 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/74/4c/1f/744c1fbb4512567a9e0a51a4b4add9eb.jpg",
-		title: "已是一無所知",
+		title: "LOVE",
 		descrip: "Acrylic on canvas <br> 15 x 15 cm <br> Mar 2020"
 	}, {
 		link: "https://i.pinimg.com/originals/22/89/6a/22896aa8c354880736a765a998ad7979.jpg",
@@ -464,11 +420,7 @@ var mydataset = {
 		link: "https://i.pinimg.com/originals/b2/fc/86/b2fc8654a47d3731c1c42eb26699429a.jpg",
 		title: "Someone's Room",
 		descrip: "Acrylic on canvas <br> 16 x 20 inches <br> May 2019"
-	}, {
-		link: "https://i.pinimg.com/originals/a6/c4/12/a6c412141e1eb90ad775a4926290252d.jpg",
-		title: "告白 <br> Confession ",
-		descrip: "Acrylic on canvas <br> 42 x 60 cm <br> Apr 2019"
-	}, {
+	},  {
 		link: "https://i.pinimg.com/originals/f7/2a/55/f72a557d9a23092183568eb174cd6f8b.jpg",
 		title: "都市男女 <br> City Boys & Girls",
 		descrip: "Acrylic on panel <br> 12 x 16 inches <br> Apr 2019 <br> -sold-"
@@ -487,25 +439,13 @@ var mydataset = {
 		title: "This is red",
 		descrip: "Jun 2020"
 	},{
-		link: "https://i.pinimg.com/originals/64/32/cb/6432cb8eea24f9dfc8c0c32370fd6ff4.jpg",
-		title: "狀態",
-		descrip: "May 2020"
-	},{
 		link: "https://i.pinimg.com/originals/ca/4b/90/ca4b90219d9319ffe4cae51199c61eed.jpg",
 		title: "Untitled",
-		descrip: "May 2020"
-	},{
-		link: "https://i.pinimg.com/originals/68/cf/b8/68cfb822174dbf4d31ecca4d9d68aeb5.jpg",
-		title: "Mother's Day",
 		descrip: "May 2020"
 	},{
 		link: "https://i.pinimg.com/originals/1e/a4/37/1ea4377f8fbd653d677d5f88a81fb6ab.jpg",
 		title: "Wandering",
 		descrip: "Jan 2020"
-	}, {
-		link: "https://i.pinimg.com/originals/67/f3/63/67f3637dff97de4b2d0e9118316f95cb.jpg",
-		title: "There's Nth Else For Me To Do",
-		descrip: "Sep 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/45/15/5a/45155a37b88c820be71b0d72ebc21c32.jpg",
 		title: "凡經過悟明的都會歸正 <br> Epiphany",
@@ -528,7 +468,7 @@ var mydataset = {
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/ac/0f/81/ac0f818ea3b8a23d2fb9fbff0a7c2abe.jpg",
-		title: "那如果沒人跟著起舞我們怎麽革命 <br> We Should Dance",
+		title: "那如果沒人跟著起舞我們怎麽革命 <br> Shall We Dance",
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/2d/66/53/2d66537f0c29c71dccba4536e86e215d.jpg",
@@ -552,15 +492,15 @@ var mydataset = {
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/10/65/b6/1065b6a2cb49ab29dd19d2d592e9b2c0.jpg",
-		title: "淺層 <br> Shallow",
+		title: "Shallow Dreams",
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/d2/97/dc/d297dc351bc0af1c844adc84f1290739.jpg",
-		title: "2001個秘密 <br> Secrets2001",
+		title: "Secrets 2001",
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/e6/91/2d/e6912de416184716e4924d536b7a69f3.jpg",
-		title: "吞服了房間 <br> Swallow The Room",
+		title: "Swallowed The Room",
 		descrip: "Aug 2019"
 	}, {
 		link: "https://i.pinimg.com/originals/ff/fd/33/fffd3336ff2704010c83cd32d5b546b7.jpg",
