@@ -501,9 +501,21 @@ var mydataset = {
 	}],
 
 	poempage: [{
+		link: "https://i.pinimg.com/originals/31/c4/e9/31c4e9f1a07fedeb88c23f17a04548b0.jpg",
+		title: "Cover Art for<br>同在",
+		descrip: "Dec 2020"
+	},{
 		link: "https://i.pinimg.com/originals/de/93/16/de9316c5d4beaa8e47c826640620e49a.jpg",
-		title: "Single Cover of<br>夢遺天使",
+		title: "Cover Art for<br>夢遺天使",
 		descrip: "Nov 2020"
+	},{
+		link: "https://i.pinimg.com/originals/3f/50/ef/3f50ef03033a0312bba2f9a069ce1100.jpg",
+		title: "Cover Art for<br>轉",
+		descrip: "Mar 2020"
+	},{
+		link: "https://i.pinimg.com/originals/a7/4f/44/a74f4423b427ccaa3d0ac9d97137a646.jpg",
+		title: "Cover Art for<br>墜",
+		descrip: "Feb 2020"
 	},{
 		link: "https://i.pinimg.com/originals/ab/6d/67/ab6d678c5bb888681472949d083ec0e1.jpg",
 		title: "詩的實踐",
@@ -511,7 +523,7 @@ var mydataset = {
 	},{
 		link: "https://i.pinimg.com/originals/f5/90/32/f5903223a22e814802f2620361aae55e.jpg",
 		title: "路",
-		descrip: "旋轉詩實驗 <br> Apr 2020"
+		descrip: "Apr 2020"
 	},{
 		link: "https://i.pinimg.com/originals/2a/29/fd/2a29fdf4c58bea4001e021b264a9ab44.jpg",
 		title: "關係",
