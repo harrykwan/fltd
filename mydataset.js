@@ -24,10 +24,6 @@ var mydataset = {
 		title: "Untitled",
 		descrip: "Dec 2020"
 	},{
-		link: "https://i.pinimg.com/originals/f2/7b/c3/f27bc3209c98e0b4da74f985f0a5aca1.jpg",
-		title: "Somewhere",
-		descrip: "Nov 2020"
-	},{
 		link: "https://i.pinimg.com/originals/cc/ee/7d/ccee7d6f5a81a3222c37306e4aa1011a.jpg",
 		title: "Evanescent",
 		descrip: "Nov 2020"
